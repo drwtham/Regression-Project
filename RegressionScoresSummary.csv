@@ -1,0 +1,15 @@
+Model,TrainRMSE,TrainR2Score,TestRMSE,TestR2Score
+Linear Regression,7.897,0.627,8.960,0.615
+Polynomial Regression With Linear Model,7.420,0.673,8.880,0.622
+Ridge Regression,7.898,0.627,8.944,0.617
+Polynomial Regression With Ridge Model,7.426,0.672,8.830,0.626
+Lasso Regression,7.956,0.617,8.959,0.615
+Polynomial Regression With Lasso Model,7.422,0.673,8.852,0.624
+Elastic Net Regression,8.186,0.595,8.943,0.617
+Polynomial Regression With Elastic Net Model,7.249,0.688,8.804,0.628
+SGD Regressor,7.960,0.627,8.930,0.618
+Support Vector Regression,8.969,0.577,8.767,0.632
+KNN Regression,8.761,0.594,8.931,0.618
+Random Forest Regression,8.653,0.581,8.967,0.615
+Gradient Boost Regressor,8.635,0.620,9.114,0.602
+XGBoost ,8.381,0.623,8.897,0.621

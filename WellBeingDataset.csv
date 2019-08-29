@@ -1,0 +1,934 @@
+SONAid,Gender,Age,Country,AcadStatStudyMode_FullTime,AcadStatStudyMode_PartTime,StudyMode1,AcadStatStudyMode_Online,AcadStatStudyMode_OnCampus,StudyMode2,ProcrasProgramOffer,StressProgramOffer,PCI_Total,RosenbergSES_Total,RosenbergSES_Class,Rumination_Total,MSES_R_EmotionRegulation,MSES_R_Equanimity,MSES_R_SocialSkills,MSES_R_DistressTolerance,MSES_R_TakingResponsibility,MSES_R_InterpersonalEffectiveness,MSES_R_Total,PSWQ_Total,DASS21_Depression,DASS21_Anxiety,DASS21_Stress,DASS21_Depression_Class,DASS21_Anxiety_Class,DASS21_Stress_Class,PRCScaleTotal,TargetVariable
+8575,Male,30, , ,PartTime, PartTime, ,OnCampus, OnCampus,Yes,No,72,29,Normal Self-Esteem,38,17,8,8,10,9,9,61,57,1,1,2,1,1,1,67,Enrolled
+9727,Male,28, ,FullTime, ,FullTime , , ,  ,No,No,15,40,Normal Self-Esteem,25,23,7,7,12,12,10,71,24,0,1,1,1,1,1,46,Withdrawn
+8467,Male,21, ,FullTime, ,FullTime , , ,  ,No,No,36,28,Normal Self-Esteem,32,21,13,10,6,9,10,69,28,4,2,3,1,1,1,55,Withdrawn
+9211,Male,44, ,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,No,65,37,Normal Self-Esteem,32,23,5,8,11,11,6,64,30,0,0,3,1,1,1,48,Withdrawn
+9190,Male,22, ,FullTime, ,FullTime , , ,  ,No,No,56,26,Normal Self-Esteem,55,20,10,6,7,10,10,63,33,3,3,11,1,1,3,61,Enrolled
+8644,Male,24, ,FullTime, ,FullTime , , ,  ,Yes,Yes,27,36,Normal Self-Esteem,40,21,9,9,10,10,7,66,35,4,2,8,1,1,2,42,Withdrawn
+8428,Male,32, ,FullTime, ,FullTime , , ,  ,Yes,Yes,5,29,Normal Self-Esteem,40,15,10,7,9,10,9,60,38,0,0,0,1,1,1,79,Enrolled
+9130,Male,25, ,FullTime, ,FullTime , , ,  ,Yes,No,42,21,Normal Self-Esteem,61,16,2,4,9,10,9,50,44,4,6,5,1,3,1,86,Withdrawn
+9424,Male,28, ,FullTime, ,FullTime , , ,  ,No,No,66,25,Normal Self-Esteem,38,18,10,12,9,11,12,72,48,3,5,6,1,2,1,37,Enrolled
+7165,Male,23, ,FullTime, ,FullTime , , ,  ,Yes,Yes,64,32,Normal Self-Esteem,44,14,13,10,10,10,10,67,48,4,3,7,1,1,1,55,Enrolled
+7300,Male,20, ,FullTime, ,FullTime , , ,  ,Yes,No,43,28,Normal Self-Esteem,44,17,6,3,10,8,7,51,61,4,3,6,1,1,1,72,Enrolled
+8743,Male,52, ,FullTime, ,FullTime , , ,  ,No,No,72,29,Normal Self-Esteem,30,16,9,9,7,6,9,56,67,1,3,7,1,1,1,45,Enrolled
+7516,Male,20, ,FullTime, ,FullTime , ,OnCampus, OnCampus,No,No,70,20,Normal Self-Esteem,64,9,7,2,9,8,9,44,69,3,17,12,1,5,3,73,Enrolled
+8563,Male,35, , ,PartTime, PartTime,Online, ,Online ,No,No,31,34,Normal Self-Esteem,30,24,13,7,11,9,6,70,23,0,0,4,1,1,1,52,Enrolled
+9301,Male,37, , ,PartTime, PartTime,Online, ,Online ,No,No,41,40,Normal Self-Esteem,27,24,14,11,9,9,11,78,24,0,0,2,1,1,1,36,Enrolled
+8674,Male,36, , ,PartTime, PartTime,Online, ,Online ,Yes,Yes,30,30,Normal Self-Esteem,33,22,8,10,10,8,12,70,40,3,1,5,1,1,1,62,Withdrawn
+9112,Male,33, , , ,  ,Online, ,Online ,Yes,Yes,52,33,Normal Self-Esteem,40,22,9,7,9,11,7,65,43,1,1,4,1,1,1,65,Enrolled
+9361,Male,44, , ,PartTime, PartTime,Online, ,Online ,Yes,Yes,28,36,Normal Self-Esteem,36,19,13,8,10,10,8,68,47,1,0,5,1,1,1,83,Enrolled
+9325,Male,31, , ,PartTime, PartTime,Online, ,Online ,Yes,Yes,45,33,Normal Self-Esteem,45,19,8,10,12,9,11,69,48,0,1,5,1,1,1,64,Enrolled
+9115,Male,38, , , ,  ,Online, ,Online ,No,Yes,42,29,Normal Self-Esteem,52,17,8,6,12,12,8,63,57,0,0,8,1,1,2,46,Enrolled
+8689,Male,58, , , ,  ,Online, ,Online ,No,No,43,34,Normal Self-Esteem,38,11,15,5,7,10,11,59,67,4,6,9,1,3,2,71,Withdrawn
+9745,Male,39, , ,PartTime, PartTime,Online, ,Online ,Yes,Yes,54,20,Normal Self-Esteem,50,13,8,5,11,10,7,54,77,1,8,13,1,4,4,51,Withdrawn
+9535,Male,22, ,FullTime, ,FullTime ,Online, ,Online ,No,No,65,40,Normal Self-Esteem,28,24,12,12,12,4,12,76,20,0,0,4,1,1,1,44,Withdrawn
+8401,Male,38, ,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,15,34,Normal Self-Esteem,30,20,8,10,10,10,12,70,28,1,0,4,1,1,1,43,Withdrawn
+8524,Male,42, ,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,16,32,Normal Self-Esteem,47,24,9,10,8,10,10,71,39,0,5,3,1,2,1,26,Withdrawn
+8659,Male,25, ,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,Yes,No,17,25,Normal Self-Esteem,38,21,10,3,12,12,10,68,50,2,1,4,1,1,1,73,Withdrawn
+8386,Male,41, ,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,Yes,Yes,48,30,Normal Self-Esteem,47,13,12,6,10,6,3,50,50,4,6,7,1,3,1,58,Withdrawn
+5338,Male,33, ,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,55,34,Normal Self-Esteem,69,15,14,8,11,2,8,58,58,1,0,9,1,1,2,73,Withdrawn
+9349,Female,37, , ,PartTime, PartTime, ,OnCampus, OnCampus,No,No,5,35,Normal Self-Esteem,36,20,9,8,9,10,9,65,36,0,0,2,1,1,1,45,Enrolled
+8740,Female,49, , ,PartTime, PartTime, , ,  ,Yes,Yes,18,30,Normal Self-Esteem,26,21,7,9,12,12,9,70,40,0,0,5,1,1,1,50,Enrolled
+4912,Female,33, , ,PartTime, PartTime, , ,  ,No,No,52,32,Normal Self-Esteem,59,14,7,11,9,10,6,57,42,3,1,5,1,1,1,69,Withdrawn
+8374,Female,19, , ,PartTime, PartTime, ,OnCampus, OnCampus,No,No,50,24,Normal Self-Esteem,44,12,8,6,6,6,6,44,48,4,6,6,1,3,1,60,Withdrawn
+5986,Female,38, , ,PartTime, PartTime, ,OnCampus, OnCampus,Yes,Yes,24,31,Normal Self-Esteem,31,23,7,10,11,12,10,73,49,0,1,4,1,1,1,68,Withdrawn
+9322,Female,28, , ,PartTime, PartTime, , ,  ,Yes,Yes,90,27,Normal Self-Esteem,51,11,10,6,6,5,5,43,50,2,5,6,1,2,1,81,Withdrawn
+8344,Female,35, , ,PartTime, PartTime, , ,  ,Yes,Yes,41,34,Normal Self-Esteem,27,23,14,12,10,11,12,82,51,0,1,2,1,1,1,47,Enrolled
+8071,Female,42, , ,PartTime, PartTime, , ,  ,Yes,Yes,25,40,Normal Self-Esteem,28,20,10,7,10,11,11,69,53,1,2,7,1,1,1,32,Enrolled
+6883,Female,44, , ,PartTime, PartTime, ,OnCampus, OnCampus,Yes,Yes,58,31,Normal Self-Esteem,60,13,10,6,8,8,8,53,59,2,3,8,1,1,2,56,Withdrawn
+9178,Female,23, , ,PartTime, PartTime, ,OnCampus, OnCampus,Yes,No,46,25,Normal Self-Esteem,48,15,8,4,9,8,7,51,62,1,4,9,1,2,2,65,Enrolled
+9742,Female,41, , ,PartTime, PartTime, ,OnCampus, OnCampus,Yes,Yes,19,27,Normal Self-Esteem,45,12,10,9,10,10,10,61,65,3,2,4,1,1,1,69,Enrolled
+9487,Female,26, , ,PartTime, PartTime, , ,  ,No,Yes,63,31,Normal Self-Esteem,55,14,12,8,10,10,11,65,67,0,9,12,1,4,3,37,Withdrawn
+8473,Female,29, ,FullTime, ,FullTime , , ,  ,Yes,Yes,5,36,Normal Self-Esteem,26,22,12,12,12,11,11,80,33,0,0,6,1,1,1,42,Withdrawn
+9379,Female,24, ,FullTime, ,FullTime , , ,  ,Yes,Yes,48,35,Normal Self-Esteem,58,14,12,6,5,7,12,56,34,2,4,6,1,2,1,47,Enrolled
+8410,Female,48, ,FullTime, ,FullTime , , ,  ,No,No,15,40,Normal Self-Esteem,30,20,13,11,8,10,12,74,37,1,0,4,1,1,1,42,Withdrawn
+8314,Female,44, ,FullTime, ,FullTime , , ,  ,No,Yes,8,35,Normal Self-Esteem,31,20,12,9,10,10,11,72,38,1,0,2,1,1,1,33,Withdrawn
+8572,Female,37, ,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,55,39,Normal Self-Esteem,40,24,12,12,10,7,12,77,38,0,0,2,1,1,1,88,Withdrawn
+8491,Female,34, ,FullTime, ,FullTime , , ,  ,No,No,10,31,Normal Self-Esteem,34,22,11,7,9,10,11,70,40,0,0,3,1,1,1,56,Withdrawn
+8656,Female,22, ,FullTime, ,FullTime , , ,  ,Yes,Yes,55,36,Normal Self-Esteem,26,12,16,9,8,9,12,66,40,0,0,1,1,1,1,57,Withdrawn
+8590,Female,39, ,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,10,31,Normal Self-Esteem,30,23,9,11,12,11,10,76,47,0,0,4,1,1,1,60,Withdrawn
+3526,Female,55, ,FullTime, ,FullTime , , ,  ,Yes,Yes,15,33,Normal Self-Esteem,43,14,9,7,11,11,11,63,48,4,4,3,1,2,1,61,Withdrawn
+9457,Female,23, ,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,No,31,36,Normal Self-Esteem,30,21,11,12,9,12,12,77,49,1,1,2,1,1,1,56,Withdrawn
+8380,Female,31, ,FullTime, ,FullTime , , ,  ,Yes,Yes,27,35,Normal Self-Esteem,49,14,13,8,12,11,8,66,52,1,7,7,1,3,1,44,Enrolled
+8431,Female,21, ,FullTime, ,FullTime , , ,  ,Yes,Yes,26,29,Normal Self-Esteem,48,15,11,11,10,6,11,64,56,2,3,7,1,1,1,59,Withdrawn
+8653,Female,32, ,FullTime, ,FullTime , , ,  ,Yes,Yes,25,29,Normal Self-Esteem,33,19,9,12,11,11,9,71,58,2,2,4,1,1,1,48,Withdrawn
+7435,Female,27, ,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,58,33,Normal Self-Esteem,64,11,8,11,8,10,10,58,58,1,0,10,1,1,3,78,Enrolled
+7960,Female,28, ,FullTime, ,FullTime , , ,  ,No,Yes,31,30,Normal Self-Esteem,47,15,12,7,10,7,9,60,61,2,7,8,1,3,2,60,Withdrawn
+9376,Female,18, ,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,63,35,Normal Self-Esteem,64,9,16,12,8,10,11,66,61,0,2,1,1,1,1,71,Enrolled
+9388,Female,31, ,FullTime, ,FullTime , , ,  ,No,No,68,23,Normal Self-Esteem,53,9,8,7,7,7,8,46,62,4,6,8,1,3,2,67,Enrolled
+8602,Female,26, ,FullTime, ,FullTime , , ,  ,Yes,Yes,80,27,Normal Self-Esteem,53,9,9,7,8,6,7,46,73,4,4,13,1,2,4,70,Enrolled
+3598,Female,25, , , ,  ,Online, ,Online ,Yes,No,74,31,Normal Self-Esteem,61,18,6,11,8,10,9,62,21,2,0,3,1,1,1,90,Withdrawn
+9496,Female,25, , ,PartTime, PartTime,Online,OnCampus,OnlineOnCampus,Yes,No,10,32,Normal Self-Esteem,36,21,10,10,6,7,11,65,24,3,3,2,1,1,1,82,Withdrawn
+9277,Female,43, , , ,  ,Online, ,Online ,Yes,No,66,40,Normal Self-Esteem,33,22,15,12,10,5,6,70,27,1,0,2,1,1,1,46,Withdrawn
+8266,Female,52, , ,PartTime, PartTime,Online, ,Online ,Yes,Yes,24,40,Normal Self-Esteem,24,23,16,12,12,11,12,86,30,2,0,2,1,1,1,48,Enrolled
+6283,Female,22, , , ,  ,Online, ,Online ,No,No,23,40,Normal Self-Esteem,24,24,13,12,11,11,12,83,34,0,0,0,1,1,1,48,Withdrawn
+7474,Female,27, , ,PartTime, PartTime,Online, ,Online ,No,No,36,29,Normal Self-Esteem,40,15,9,6,11,9,10,60,36,0,0,3,1,1,1,58,Enrolled
+9850,Female,41, , ,PartTime, PartTime,Online, ,Online ,No,Yes,22,29,Normal Self-Esteem,31,21,9,10,11,9,7,67,39,1,1,4,1,1,1,48,Enrolled
+9091,Female,38, , ,PartTime, PartTime,Online, ,Online ,No,Yes,12,37,Normal Self-Esteem,34,17,12,9,10,10,10,68,39,1,0,5,1,1,1,55,Enrolled
+7375,Female,30, , , ,  ,Online, ,Online ,No,No,22,31,Normal Self-Esteem,26,17,10,11,12,10,11,71,41,0,1,2,1,1,1,48,Enrolled
+8275,Female,41, , ,PartTime, PartTime,Online, ,Online ,Yes,No,23,31,Normal Self-Esteem,36,19,9,11,10,10,9,68,41,1,0,2,1,1,1,46,Enrolled
+9358,Female,28, , ,PartTime, PartTime,Online, ,Online ,No,Yes,2,32,Normal Self-Esteem,27,21,10,11,11,10,11,74,41,0,0,1,1,1,1,42,Withdrawn
+8608,Female,32, , , ,  ,Online, ,Online ,No,No,36,39,Normal Self-Esteem,31,24,10,8,9,12,11,74,44,0,0,0,1,1,1,65,Withdrawn
+8713,Female,38, , ,PartTime, PartTime,Online, ,Online ,Yes,No,65,29,Normal Self-Esteem,42,20,8,10,10,6,8,62,46,0,1,0,1,1,1,46,Withdrawn
+8635,Female,25, , ,PartTime, PartTime,Online, ,Online ,No,No,8,36,Normal Self-Esteem,29,15,10,9,8,10,10,62,46,1,2,8,1,1,2,75,Withdrawn
+9835,Female,21, , ,PartTime, PartTime,Online, ,Online ,Yes,No,62,23,Normal Self-Esteem,54,15,9,8,10,6,11,59,48,3,2,1,1,1,1,70,Enrolled
+8614,Female,37, , ,PartTime, PartTime,Online, ,Online ,Yes,Yes,24,31,Normal Self-Esteem,36,18,10,8,9,10,11,66,49,2,5,6,1,2,1,44,Enrolled
+9772,Female,31, , ,PartTime, PartTime,Online, ,Online ,No,No,61,39,Normal Self-Esteem,37,19,13,12,9,10,12,75,52,0,3,7,1,1,1,30,Enrolled
+9466,Female,27, , ,PartTime, PartTime,Online, ,Online ,Yes,Yes,36,31,Normal Self-Esteem,29,18,6,11,9,9,10,63,53,2,1,5,1,1,1,60,Withdrawn
+8722,Female,38, , ,PartTime, PartTime,Online, ,Online ,No,No,57,30,Normal Self-Esteem,33,17,10,11,8,10,10,66,54,4,1,8,1,1,2,64,Enrolled
+8383,Female,29, , , ,  ,Online, ,Online ,Yes,Yes,20,36,Normal Self-Esteem,36,17,7,11,10,10,9,64,54,1,2,7,1,1,1,36,Withdrawn
+8311,Female,37, , , ,  ,Online, ,Online ,No,No,68,30,Normal Self-Esteem,27,19,12,10,12,10,11,74,56,1,0,1,1,1,1,64,Withdrawn
+8338,Female,27, , ,PartTime, PartTime,Online, ,Online ,Yes,Yes,51,28,Normal Self-Esteem,45,11,12,10,10,9,8,60,58,2,1,13,1,1,4,63,Withdrawn
+9724,Female,36, , ,PartTime, PartTime,Online, ,Online ,No,No,57,31,Normal Self-Esteem,39,8,13,6,4,1,11,43,58,1,10,8,1,5,2,34,Enrolled
+9364,Female,23, , ,PartTime, PartTime,Online, ,Online ,Yes,Yes,34,31,Normal Self-Esteem,35,20,14,12,10,10,10,76,59,2,0,7,1,1,1,59,Withdrawn
+9145,Female,43, , , ,  ,Online, ,Online ,Yes,Yes,27,33,Normal Self-Esteem,33,15,7,6,9,10,9,56,59,0,1,6,1,1,1,74,Enrolled
+9106,Female,20, , , ,  ,Online, ,Online ,Yes,Yes,49,27,Normal Self-Esteem,44,8,9,8,8,6,11,50,62,2,4,6,1,2,1,57,Enrolled
+9517,Female,24, , ,PartTime, PartTime,Online,OnCampus,OnlineOnCampus,Yes,Yes,79,26,Normal Self-Esteem,52,2,3,0,5,3,7,20,65,3,2,2,1,1,1,74,Withdrawn
+7993,Female,31, , ,PartTime, PartTime,Online, ,Online ,Yes,Yes,73,25,Normal Self-Esteem,55,8,8,9,3,9,11,48,74,4,10,14,1,5,4,76,Enrolled
+9499,Female,46, ,FullTime, ,FullTime ,Online, ,Online ,No,No,22,40,Normal Self-Esteem,25,24,15,12,12,12,11,86,24,0,0,3,1,1,1,32,Enrolled
+4939,Female,26, ,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,Yes,No,8,29,Normal Self-Esteem,26,18,4,8,9,10,9,58,28,0,0,0,1,1,1,56,Withdrawn
+8359,Female,49, ,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,24,34,Normal Self-Esteem,31,21,12,8,8,9,11,69,35,0,0,0,1,1,1,61,Withdrawn
+8539,Female,46, ,FullTime, ,FullTime ,Online, ,Online ,No,No,60,37,Normal Self-Esteem,26,20,13,12,9,12,8,74,35,0,0,3,1,1,1,34,Enrolled
+8611,Female,18, ,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,Yes,Yes,57,30,Normal Self-Esteem,53,18,8,10,9,8,9,62,38,2,3,6,1,1,1,55,Withdrawn
+8440,Female,21, ,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,No,Yes,37,31,Normal Self-Esteem,65,15,11,8,7,5,11,57,44,3,3,4,1,1,1,60,Enrolled
+8737,Female,22, ,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,Yes,Yes,39,38,Normal Self-Esteem,45,9,5,12,10,8,8,52,44,0,0,2,1,1,1,84,Enrolled
+8548,Female,32, ,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,43,36,Normal Self-Esteem,33,20,13,11,10,9,10,73,45,0,0,5,1,1,1,46,Enrolled
+8485,Female,26, ,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,39,29,Normal Self-Esteem,45,21,13,10,10,10,11,75,46,3,1,7,1,1,1,80,Withdrawn
+9469,Female,24, ,FullTime, ,FullTime ,Online, ,Online ,No,Yes,34,39,Normal Self-Esteem,28,17,13,11,11,9,10,71,46,2,0,6,1,1,1,50,Enrolled
+8422,Female,19, ,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,No,No,11,30,Normal Self-Esteem,25,22,3,10,12,12,8,67,54,1,4,1,1,2,1,59,Withdrawn
+9775,Female,24, ,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,Yes,Yes,79,31,Normal Self-Esteem,50,10,11,6,5,4,10,46,54,4,7,4,1,3,1,52,Withdrawn
+9148,Female,23, ,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,37,36,Normal Self-Esteem,35,17,9,11,8,8,12,65,55,0,6,6,1,3,1,39,Enrolled
+8518,Female,34, ,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,58,35,Normal Self-Esteem,50,15,12,8,9,9,11,64,56,0,0,4,1,1,1,33,Withdrawn
+8479,Female,26, ,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,30,29,Normal Self-Esteem,26,24,6,11,10,12,8,71,57,0,0,1,1,1,1,50,Enrolled
+7333,Female,30, ,FullTime, ,FullTime ,Online, ,Online ,Yes,No,65,37,Normal Self-Esteem,52,16,13,8,10,6,12,65,63,4,6,14,1,3,4,81,Withdrawn
+9370,Female,43, ,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,31,31,Normal Self-Esteem,77,6,10,4,12,9,8,49,64,0,6,17,1,3,5,42,Withdrawn
+7408,Female,26, ,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,36,26,Normal Self-Esteem,50,5,11,4,5,6,12,43,67,1,4,4,1,2,1,67,Withdrawn
+9385,Female,34, ,FullTime, ,FullTime ,Online, ,Online ,No,Yes,74,23,Normal Self-Esteem,48,7,5,6,8,7,6,39,69,1,7,13,1,3,4,55,Withdrawn
+8686,Female,32, ,FullTime, ,FullTime ,Online, ,Online ,No,Yes,52,31,Normal Self-Esteem,35,14,7,9,7,9,11,57,71,2,3,14,1,1,4,59,Enrolled
+8482,Female,26, ,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,65,20,Normal Self-Esteem,64,1,1,1,5,9,8,25,79,3,5,16,1,2,4,91,Withdrawn
+12634,Female,30,Afghanistan, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,63,32,Normal Self-Esteem,51,16,12,10,7,8,10,63,56,0,2,1,1,1,1,47,Enrolled
+11866,Male,44,Australia, ,PartTime, PartTime, ,OnCampus, OnCampus,No,No,22,32,Normal Self-Esteem,36,21,14,11,9,11,9,75,34,0,0,0,1,1,1,50,Withdrawn
+10405,Male,30,Australia, ,PartTime, PartTime, , ,  ,Yes,Yes,25,28,Normal Self-Esteem,32,20,7,9,12,11,10,69,37,0,1,0,1,1,1,48,Withdrawn
+12247,Male,22,Australia, ,PartTime, PartTime, ,OnCampus, OnCampus,No,No,32,35,Normal Self-Esteem,35,22,15,11,12,12,8,80,37,1,3,4,1,1,1,73,Enrolled
+12718,Male,73,Australia, ,PartTime, PartTime, , ,  ,Yes,Yes,30,36,Normal Self-Esteem,38,14,5,8,11,8,10,56,37,3,6,6,1,3,1,56,Withdrawn
+10564,Male,50,Australia, ,PartTime, PartTime, , ,  ,Yes,Yes,43,38,Normal Self-Esteem,46,17,10,7,6,8,10,58,47,3,4,5,1,2,1,59,Enrolled
+12586,Male,21,Australia, , ,  , ,OnCampus, OnCampus,Yes,Yes,72,21,Normal Self-Esteem,65,6,8,4,8,6,8,40,60,0,1,0,1,1,1,70,Withdrawn
+11809,Male,32,Australia,FullTime, ,FullTime , , ,  ,No,No,3,40,Normal Self-Esteem,36,22,14,9,11,10,9,75,25,0,1,0,1,1,1,36,Enrolled
+12043,Male,28,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,24,33,Normal Self-Esteem,34,24,14,8,11,11,8,76,26,2,5,3,1,2,1,53,Withdrawn
+12640,Male,24,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,No,43,31,Normal Self-Esteem,46,21,11,9,7,10,11,69,27,4,2,5,1,1,1,75,Enrolled
+11173,Male,44,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,No,No,17,40,Normal Self-Esteem,25,24,16,12,11,11,12,86,27,1,0,0,1,1,1,42,Enrolled
+12643,Male,52,Australia,FullTime, ,FullTime , , ,  ,No,No,35,37,Normal Self-Esteem,25,23,11,6,9,9,10,68,28,0,0,2,1,1,1,31,Withdrawn
+17296,Male,54,Australia,FullTime, ,FullTime , , ,  ,No,Yes,19,40,Normal Self-Esteem,27,22,13,11,11,12,11,80,28,0,1,4,1,1,1,45,Enrolled
+12796,Male,62,Australia,FullTime, ,FullTime , , ,  ,Yes,No,25,34,Normal Self-Esteem,32,17,14,12,8,9,11,71,29,2,3,7,1,1,1,57,Withdrawn
+9925,Male,24,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,53,40,Normal Self-Esteem,29,23,15,11,10,6,12,77,29,0,0,0,1,1,1,47,Enrolled
+10390,Male,19,Australia,FullTime, ,FullTime , , ,  ,Yes,No,42,29,Normal Self-Esteem,41,20,11,10,10,11,9,71,30,1,0,0,1,1,1,57,Enrolled
+12787,Male,68,Australia,FullTime, ,FullTime , , ,  ,No,No,52,33,Normal Self-Esteem,45,18,11,8,5,9,7,58,32,0,0,0,1,1,1,34,Withdrawn
+12583,Male,26,Australia,FullTime, ,FullTime , , ,  ,Yes,No,53,22,Normal Self-Esteem,39,17,6,5,8,9,10,55,33,1,4,8,1,2,2,68,Withdrawn
+10606,Male,42,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,46,29,Normal Self-Esteem,47,19,10,9,8,9,9,64,33,1,3,2,1,1,1,71,Withdrawn
+13447,Male,28,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,No,No,19,39,Normal Self-Esteem,46,21,9,7,10,11,8,66,33,0,2,0,1,1,1,37,Enrolled
+10603,Male,30,Australia,FullTime, ,FullTime , , ,  ,Yes,No,51,30,Normal Self-Esteem,51,21,12,7,9,8,8,65,34,3,4,2,1,2,1,77,Enrolled
+11638,Male,45,Australia,FullTime, ,FullTime , , ,  ,No,No,54,30,Normal Self-Esteem,29,19,8,10,8,8,10,63,34,2,5,7,1,2,1,55,Enrolled
+11278,Male,35,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,41,39,Normal Self-Esteem,28,18,11,8,12,11,10,70,35,0,3,3,1,1,1,45,Enrolled
+12697,Male,47,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,No,No,55,34,Normal Self-Esteem,27,18,9,11,9,10,11,68,39,3,0,12,1,1,3,38,Enrolled
+12652,Male,56,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,41,36,Normal Self-Esteem,37,19,5,10,11,12,8,65,40,2,7,4,1,3,1,61,Withdrawn
+17785,Male,66,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,14,30,Normal Self-Esteem,34,21,11,10,11,9,11,73,42,3,0,1,1,1,1,58,Enrolled
+10609,Male,32,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,38,34,Normal Self-Esteem,48,16,9,10,11,8,7,61,42,3,0,3,1,1,1,62,Enrolled
+10450,Male,37,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,18,34,Normal Self-Esteem,52,20,11,9,10,10,11,71,42,4,0,3,1,1,1,74,Enrolled
+12019,Male,43,Australia,FullTime, ,FullTime , , ,  ,Yes,No,19,30,Normal Self-Esteem,29,18,12,9,11,10,10,70,43,0,0,0,1,1,1,58,Withdrawn
+12277,Male,41,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,20,30,Normal Self-Esteem,38,21,14,10,12,12,11,80,44,2,4,4,1,2,1,44,Enrolled
+12265,Male,44,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,76,40,Normal Self-Esteem,29,16,14,7,10,9,8,64,44,0,1,1,1,1,1,40,Enrolled
+17254,Male,31,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,44,24,Normal Self-Esteem,59,11,8,5,8,7,7,46,46,0,3,3,1,1,1,61,Enrolled
+11137,Male,23,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,37,28,Normal Self-Esteem,47,17,11,11,10,8,10,67,48,1,2,3,1,1,1,61,Enrolled
+11467,Male,36,Australia,FullTime, ,FullTime , , ,  ,No,Yes,50,36,Normal Self-Esteem,35,16,8,8,8,8,9,57,48,3,0,6,1,1,1,58,Enrolled
+10375,Male,21,Australia,FullTime, ,FullTime , , ,  ,Yes,No,39,39,Normal Self-Esteem,44,15,13,8,9,5,12,62,51,1,0,9,1,1,2,61,Enrolled
+17290,Male,26,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,74,35,Normal Self-Esteem,33,19,14,11,11,12,10,77,54,3,6,6,1,3,1,41,Enrolled
+12658,Male,26,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,48,23,Normal Self-Esteem,46,17,12,5,9,9,8,60,58,4,1,6,1,1,1,69,Withdrawn
+10561,Male,33,Australia,FullTime, ,FullTime , , ,  ,No,No,70,27,Normal Self-Esteem,66,8,13,9,7,5,8,50,62,4,6,9,1,3,2,69,Withdrawn
+13381,Male,35,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,10,34,Normal Self-Esteem,32,15,9,8,9,11,9,61,62,1,1,7,1,1,1,42,Withdrawn
+10015,Male,57,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,60,27,Normal Self-Esteem,52,14,10,8,8,5,10,55,63,1,3,16,1,1,4,43,Enrolled
+10714,Male,41,Australia, , ,  ,Online, ,Online ,Yes,Yes,20,40,Normal Self-Esteem,33,24,11,12,11,11,11,80,19,0,2,0,1,1,1,49,Withdrawn
+17287,Male,53,Australia, ,PartTime, PartTime,Online, ,Online ,No,No,6,36,Normal Self-Esteem,41,23,16,12,11,12,11,85,24,1,0,0,1,1,1,55,Enrolled
+12778,Male,62,Australia, , ,  ,Online, ,Online ,No,No,4,39,Normal Self-Esteem,23,24,16,12,11,10,12,85,25,0,0,1,1,1,1,46,Enrolled
+15211,Male,35,Australia, ,PartTime, PartTime,Online,OnCampus,OnlineOnCampus,Yes,Yes,15,33,Normal Self-Esteem,38,21,11,8,8,11,10,69,26,1,0,5,1,1,1,79,Enrolled
+13864,Male,46,Australia, ,PartTime, PartTime,Online, ,Online ,No,No,24,39,Normal Self-Esteem,27,23,16,12,10,8,12,81,26,0,0,3,1,1,1,67,Withdrawn
+11821,Male,38,Australia, ,PartTime, PartTime,Online, ,Online ,No,No,28,38,Normal Self-Esteem,25,22,14,12,10,11,10,79,27,1,3,2,1,1,1,30,Withdrawn
+13837,Male,39,Australia, , ,  ,Online, ,Online ,Yes,Yes,27,36,Normal Self-Esteem,30,20,9,8,10,10,10,67,31,1,2,4,1,1,1,61,Withdrawn
+11290,Male,42,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,No,25,37,Normal Self-Esteem,42,20,10,12,9,6,9,66,32,0,3,5,1,1,1,59,Withdrawn
+11182,Male,41,Australia, , ,  ,Online, ,Online ,No,No,23,40,Normal Self-Esteem,23,24,12,8,8,4,12,68,32,1,1,1,1,1,1,41,Withdrawn
+12022,Male,32,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,13,35,Normal Self-Esteem,22,24,11,11,10,11,11,78,33,0,0,0,1,1,1,46,Withdrawn
+10258,Male,29,Australia, ,PartTime, PartTime,Online, ,Online ,No,No,7,37,Normal Self-Esteem,31,20,14,4,9,7,12,66,33,1,0,2,1,1,1,76,Enrolled
+11509,Male,48,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,27,32,Normal Self-Esteem,36,22,9,7,9,8,9,64,35,2,1,6,1,1,1,48,Enrolled
+14365,Male,39,Australia, , ,  ,Online, ,Online ,Yes,Yes,43,39,Normal Self-Esteem,26,19,11,10,6,9,9,64,36,1,1,3,1,1,1,65,Enrolled
+9886,Male,21,Australia, , ,  ,Online, ,Online ,Yes,Yes,32,37,Normal Self-Esteem,48,18,16,10,3,9,12,68,37,4,3,2,1,1,1,68,Withdrawn
+13696,Male,21,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,26,34,Normal Self-Esteem,26,23,13,8,12,12,11,79,38,0,2,0,1,1,1,47,Enrolled
+11359,Male,31,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,41,38,Normal Self-Esteem,34,22,12,7,9,5,12,67,39,3,1,6,1,1,1,75,Withdrawn
+16783,Male,27,Australia, ,PartTime, PartTime,Online,OnCampus,OnlineOnCampus,Yes,Yes,38,27,Normal Self-Esteem,33,19,7,7,9,8,9,59,40,1,4,6,1,2,1,68,Enrolled
+10537,Male,46,Australia, , ,  ,Online, ,Online ,No,Yes,60,30,Normal Self-Esteem,38,22,13,10,8,12,11,76,40,1,2,0,1,1,1,47,Enrolled
+12244,Male,37,Australia, , ,  ,Online, ,Online ,Yes,No,17,34,Normal Self-Esteem,33,21,9,10,12,10,10,72,43,2,0,3,1,1,1,58,Enrolled
+17791,Male,38,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,46,25,Normal Self-Esteem,43,13,11,8,6,5,8,51,45,3,2,8,1,1,2,64,Enrolled
+10720,Male,26,Australia, ,PartTime, PartTime,Online, ,Online ,No,No,7,30,Normal Self-Esteem,34,18,10,7,10,7,10,62,45,2,1,6,1,1,1,53,#N/A
+11296,Male,34,Australia, ,PartTime, PartTime,Online, ,Online ,No,No,36,31,Normal Self-Esteem,51,15,12,7,5,7,11,57,45,3,0,5,1,1,1,50,Enrolled
+12481,Male,37,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,No,5,36,Normal Self-Esteem,29,22,10,11,9,10,10,72,47,3,4,10,1,2,3,78,Withdrawn
+16774,Male,35,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,No,37,39,Normal Self-Esteem,42,19,11,12,9,11,10,72,49,2,4,8,1,2,2,41,Enrolled
+12901,Male,48,Australia, , ,  ,Online, ,Online ,Yes,Yes,38,32,Normal Self-Esteem,38,20,10,7,10,10,11,68,52,0,1,5,1,1,1,32,Enrolled
+10081,Male,42,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,54,30,Normal Self-Esteem,53,10,11,9,7,8,9,54,55,2,1,7,1,1,1,72,Withdrawn
+12268,Male,32,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,41,28,Normal Self-Esteem,32,15,12,9,8,7,11,62,56,0,0,3,1,1,1,65,Withdrawn
+10246,Male,21,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,No,61,21,Normal Self-Esteem,60,10,7,9,8,8,8,50,57,4,8,11,1,4,3,65,Withdrawn
+12871,Male,53,Australia, , ,  ,Online, ,Online ,Yes,Yes,41,31,Normal Self-Esteem,41,18,8,6,8,6,10,56,63,4,4,9,1,2,2,61,#N/A
+13372,Male,27,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,76,22,Normal Self-Esteem,49,5,14,4,6,5,10,44,67,4,0,12,1,1,3,65,Withdrawn
+13465,Male,41,Australia, , ,  ,Online, ,Online ,Yes,Yes,40,36,Normal Self-Esteem,40,14,10,4,11,4,11,54,73,1,0,13,1,1,4,76,Enrolled
+11545,Male,27,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,70,38,Normal Self-Esteem,52,22,11,10,6,10,8,67,26,0,2,1,1,1,1,59,Withdrawn
+11617,Male,21,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,31,37,Normal Self-Esteem,22,24,16,12,12,12,12,88,28,0,0,0,1,1,1,22,Withdrawn
+10729,Male,27,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,45,22,Normal Self-Esteem,41,22,16,12,8,10,10,78,31,1,0,6,1,1,1,62,Withdrawn
+12565,Male,38,Australia,FullTime, ,FullTime ,Online, ,Online ,No,Yes,8,31,Normal Self-Esteem,31,22,10,5,9,11,11,68,32,0,0,1,1,1,1,46,Enrolled
+10552,Male,33,Australia,FullTime, ,FullTime ,Online, ,Online ,No,Yes,22,35,Normal Self-Esteem,32,22,13,10,6,9,11,71,33,1,1,5,1,1,1,50,Withdrawn
+11914,Male,42,Australia,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,Yes,Yes,67,26,Normal Self-Esteem,63,14,12,6,9,9,9,59,49,0,0,2,1,1,1,72,Withdrawn
+11593,Male,30,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,77,24,Normal Self-Esteem,51,18,8,7,7,10,10,60,52,4,6,11,1,3,3,41,Withdrawn
+10360,Male,51,Australia,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,Yes,Yes,44,36,Normal Self-Esteem,37,20,16,7,12,11,7,73,52,1,5,5,1,2,1,55,Enrolled
+9967,Male,32,Australia,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,Yes,Yes,39,33,Normal Self-Esteem,32,10,13,5,9,7,10,54,53,0,3,4,1,1,1,50,Enrolled
+12790,Male,36,Australia,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,Yes,Yes,71,33,Normal Self-Esteem,41,22,12,10,10,10,11,75,53,2,2,5,1,1,1,46,Enrolled
+11500,Male,56,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,40,36,Normal Self-Esteem,37,17,12,9,9,9,10,66,53,3,1,2,1,1,1,53,Enrolled
+17602,Male,43,Australia,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,Yes,Yes,54,21,Normal Self-Esteem,60,14,13,8,8,5,6,54,62,3,3,5,1,1,1,68,Enrolled
+10354,Female,44,Australia, ,PartTime, PartTime, , ,  ,Yes,Yes,16,38,Normal Self-Esteem,22,22,10,11,6,11,12,72,28,0,0,0,1,1,1,58,Withdrawn
+12379,Female,72,Australia, ,PartTime, PartTime, ,OnCampus, OnCampus,No,No,31,32,Normal Self-Esteem,32,22,14,11,10,10,9,76,29,1,0,1,1,1,1,37,Enrolled
+9433,Female,53,Australia, ,PartTime, PartTime, ,OnCampus, OnCampus,No,No,42,34,Normal Self-Esteem,55,20,12,11,6,11,11,71,31,2,4,6,1,2,1,51,Withdrawn
+11881,Female,26,Australia, ,PartTime, PartTime, ,OnCampus, OnCampus,Yes,Yes,19,36,Normal Self-Esteem,44,21,12,12,11,12,11,79,33,0,2,3,1,1,1,48,Withdrawn
+9865,Female,56,Australia, ,PartTime, PartTime, ,OnCampus, OnCampus,No,No,22,40,Normal Self-Esteem,36,22,11,10,12,9,10,74,33,1,0,1,1,1,1,29,Withdrawn
+12376,Female,37,Australia, ,PartTime, PartTime, ,OnCampus, OnCampus,Yes,Yes,22,35,Normal Self-Esteem,43,18,11,10,11,10,11,71,34,0,1,5,1,1,1,63,Withdrawn
+11704,Female,31,Australia, ,PartTime, PartTime, ,OnCampus, OnCampus,Yes,Yes,18,29,Normal Self-Esteem,32,18,10,11,9,10,11,69,35,4,6,7,1,3,1,62,Enrolled
+11401,Female,45,Australia, ,PartTime, PartTime, , ,  ,Yes,Yes,18,29,Normal Self-Esteem,33,20,7,9,10,12,10,68,37,1,2,2,1,1,1,61,Withdrawn
+13708,Female,44,Australia, ,PartTime, PartTime, ,OnCampus, OnCampus,Yes,Yes,24,32,Normal Self-Esteem,33,20,13,11,12,9,10,75,37,0,0,4,1,1,1,38,Enrolled
+5731,Female,24,Australia, ,PartTime, PartTime, , ,  ,Yes,Yes,15,39,Normal Self-Esteem,29,22,12,12,11,10,11,78,37,0,1,1,1,1,1,50,Enrolled
+12145,Female,27,Australia, ,PartTime, PartTime, ,OnCampus, OnCampus,Yes,Yes,36,31,Normal Self-Esteem,35,16,9,9,8,9,11,62,38,0,3,4,1,1,1,64,Enrolled
+12310,Female,49,Australia, ,PartTime, PartTime, ,OnCampus, OnCampus,Yes,No,14,39,Normal Self-Esteem,25,22,8,11,12,10,11,74,38,1,1,1,1,1,1,61,Enrolled
+10255,Female,28,Australia, ,PartTime, PartTime, , ,  ,No,Yes,6,40,Normal Self-Esteem,31,19,10,6,9,9,12,65,38,1,0,2,1,1,1,55,Enrolled
+12106,Female,26,Australia, ,PartTime, PartTime, , ,  ,Yes,Yes,50,27,Normal Self-Esteem,25,12,8,6,6,6,6,44,39,0,0,0,1,1,1,58,Withdrawn
+13645,Female,58,Australia, ,PartTime, PartTime, ,OnCampus, OnCampus,No,Yes,27,34,Normal Self-Esteem,32,21,11,12,12,10,11,77,41,2,2,5,1,1,1,62,Withdrawn
+10063,Female,25,Australia, ,PartTime, PartTime, , ,  ,Yes,Yes,62,28,Normal Self-Esteem,40,19,12,10,8,12,10,71,42,2,0,3,1,1,1,59,Withdrawn
+11143,Female,44,Australia, ,PartTime, PartTime, ,OnCampus, OnCampus,No,No,10,37,Normal Self-Esteem,43,18,13,10,10,9,10,70,42,3,1,9,1,1,2,53,Enrolled
+9532,Female,22,Australia, , ,  , ,OnCampus, OnCampus,Yes,Yes,19,31,Normal Self-Esteem,25,21,13,12,12,12,12,82,43,1,0,1,1,1,1,53,Enrolled
+12070,Female,35,Australia, ,PartTime, PartTime, ,OnCampus, OnCampus,Yes,Yes,76,36,Normal Self-Esteem,40,19,12,11,7,11,8,68,44,0,2,1,1,1,1,38,Withdrawn
+13657,Female,34,Australia, ,PartTime, PartTime, , ,  ,No,No,32,35,Normal Self-Esteem,59,12,12,10,9,8,8,59,45,2,4,8,1,2,2,45,Enrolled
+12391,Female,21,Australia, ,PartTime, PartTime, , ,  ,No,No,31,30,Normal Self-Esteem,42,17,4,9,9,9,8,56,46,2,1,2,1,1,1,60,Enrolled
+9880,Female,23,Australia, ,PartTime, PartTime, , ,  ,Yes,No,37,32,Normal Self-Esteem,28,21,8,10,9,7,12,67,49,2,0,2,1,1,1,87,Withdrawn
+17782,Female,28,Australia, ,PartTime, PartTime, ,OnCampus, OnCampus,Yes,No,37,35,Normal Self-Esteem,34,17,11,10,10,9,10,67,49,3,0,12,1,1,3,51,Enrolled
+12601,Female,53,Australia, ,PartTime, PartTime, ,OnCampus, OnCampus,Yes,Yes,26,25,Normal Self-Esteem,55,7,8,6,8,7,5,41,50,4,0,13,1,1,4,73,Enrolled
+3277,Female,27,Australia, ,PartTime, PartTime, , ,  ,No,Yes,35,32,Normal Self-Esteem,33,20,12,8,10,10,11,71,50,2,4,7,1,2,1,54,Withdrawn
+17815,Female,40,Australia, ,PartTime, PartTime, , ,  ,Yes,Yes,25,28,Normal Self-Esteem,34,15,7,6,6,9,9,52,51,4,2,6,1,1,1,51,Enrolled
+11272,Female,55,Australia, ,PartTime, PartTime, , ,  ,No,Yes,49,36,Normal Self-Esteem,58,19,14,12,10,11,4,70,52,2,0,8,1,1,2,44,Withdrawn
+11581,Female,18,Australia, , ,  , ,OnCampus, OnCampus,Yes,Yes,45,29,Normal Self-Esteem,30,21,8,9,10,7,10,65,55,1,1,2,1,1,1,48,Enrolled
+9877,Female,24,Australia, ,PartTime, PartTime, ,OnCampus, OnCampus,Yes,Yes,57,33,Normal Self-Esteem,41,16,12,8,6,10,12,64,55,1,4,7,1,2,1,47,Withdrawn
+12076,Female,18,Australia, ,PartTime, PartTime, ,OnCampus, OnCampus,Yes,No,85,27,Normal Self-Esteem,50,8,7,5,3,7,10,40,58,2,2,11,1,1,3,68,Enrolled
+12892,Female,28,Australia, ,PartTime, PartTime, , ,  ,Yes,Yes,33,39,Normal Self-Esteem,34,15,11,7,11,10,12,66,59,1,1,5,1,1,1,31,Enrolled
+16366,Female,31,Australia, ,PartTime, PartTime, ,OnCampus, OnCampus,Yes,Yes,60,28,Normal Self-Esteem,52,17,12,10,9,11,11,70,62,1,0,0,1,1,1,66,Enrolled
+13474,Female,36,Australia, ,PartTime, PartTime, , ,  ,Yes,Yes,55,29,Normal Self-Esteem,73,9,10,5,7,7,9,47,62,3,5,13,1,2,4,78,Enrolled
+10282,Female,29,Australia, ,PartTime, PartTime, , ,  ,Yes,Yes,69,27,Normal Self-Esteem,38,12,6,5,11,10,10,54,63,3,0,7,1,1,1,84,Enrolled
+11686,Female,60,Australia, ,PartTime, PartTime, ,OnCampus, OnCampus,Yes,Yes,52,32,Normal Self-Esteem,36,12,9,10,5,10,10,56,64,0,1,5,1,1,1,59,Enrolled
+10498,Female,38,Australia, ,PartTime, PartTime, ,OnCampus, OnCampus,No,Yes,74,30,Normal Self-Esteem,54,10,8,4,9,6,8,45,65,2,9,11,1,4,3,47,Enrolled
+11584,Female,29,Australia, , ,  , ,OnCampus, OnCampus,No,No,62,35,Normal Self-Esteem,77,8,1,4,8,4,4,29,65,0,2,8,1,1,2,35,Enrolled
+11551,Female,35,Australia, ,PartTime, PartTime, ,OnCampus, OnCampus,Yes,Yes,46,29,Normal Self-Esteem,31,16,11,6,8,9,4,54,66,0,1,7,1,1,1,46,Enrolled
+11497,Female,40,Australia, ,PartTime, PartTime, ,OnCampus, OnCampus,No,No,24,26,Normal Self-Esteem,37,16,7,6,6,7,7,49,69,1,5,10,1,2,3,75,Enrolled
+10570,Female,52,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,No,No,8,37,Normal Self-Esteem,39,22,13,9,10,12,11,77,20,0,0,0,1,1,1,41,Enrolled
+9961,Female,21,Australia,FullTime, ,FullTime , , ,  ,Yes,No,30,33,Normal Self-Esteem,46,10,9,9,9,10,10,57,23,0,7,7,1,3,1,72,Withdrawn
+17302,Female,27,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,50,40,Normal Self-Esteem,23,24,11,12,10,12,12,81,26,0,0,1,1,1,1,26,Enrolled
+11347,Female,20,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,51,39,Normal Self-Esteem,30,19,16,12,4,12,10,73,28,0,1,2,1,1,1,28,Enrolled
+11332,Female,37,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,22,39,Normal Self-Esteem,38,22,3,12,11,9,7,64,28,1,9,13,1,4,4,51,Enrolled
+11494,Female,25,Australia,FullTime, ,FullTime , , ,  ,No,No,17,36,Normal Self-Esteem,31,24,9,11,12,12,11,79,29,0,3,0,1,1,1,45,Withdrawn
+9502,Female,43,Australia,FullTime, ,FullTime , , ,  ,No,No,4,38,Normal Self-Esteem,25,24,10,12,12,12,9,79,29,0,0,0,1,1,1,56,Enrolled
+11986,Female,57,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,19,38,Normal Self-Esteem,31,23,15,11,9,11,12,81,30,0,0,5,1,1,1,44,Enrolled
+12637,Female,50,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,22,36,Normal Self-Esteem,22,21,7,12,12,12,11,75,33,1,3,2,1,1,1,64,Withdrawn
+11659,Female,22,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,No,36,30,Normal Self-Esteem,45,18,11,4,4,6,8,51,36,0,5,2,1,2,1,55,Enrolled
+11167,Female,26,Australia,FullTime, ,FullTime , , ,  ,No,Yes,22,39,Normal Self-Esteem,28,20,10,10,11,12,11,74,36,0,0,1,1,1,1,50,Withdrawn
+9955,Female,27,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,26,30,Normal Self-Esteem,49,18,9,6,6,11,11,61,37,3,2,5,1,1,1,56,Enrolled
+10633,Female,21,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,39,31,Normal Self-Esteem,53,20,8,4,10,9,11,62,37,3,6,4,1,3,1,83,Withdrawn
+11116,Female,25,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,35,33,Normal Self-Esteem,39,22,12,7,12,9,10,72,37,0,0,3,1,1,1,44,Withdrawn
+17029,Female,20,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,7,28,Normal Self-Esteem,31,20,10,10,11,12,11,74,38,0,0,1,1,1,1,57,Enrolled
+12541,Female,28,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,21,30,Normal Self-Esteem,41,18,5,6,8,9,10,56,38,2,6,6,1,3,1,69,Enrolled
+16300,Female,24,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,25,28,Normal Self-Esteem,42,22,4,8,9,8,7,58,39,4,5,7,1,2,1,60,Enrolled
+10627,Female,23,Australia,FullTime, ,FullTime , , ,  ,No,No,26,35,Normal Self-Esteem,30,19,14,8,9,8,11,69,39,0,1,0,1,1,1,29,Withdrawn
+11575,Female,23,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,59,35,Normal Self-Esteem,71,14,10,12,8,11,12,67,39,1,1,4,1,1,1,44,Withdrawn
+10585,Female,29,Australia,FullTime, ,FullTime , , ,  ,No,Yes,20,36,Normal Self-Esteem,25,19,13,7,9,10,10,68,39,0,1,4,1,1,1,34,Enrolled
+10327,Female,27,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,No,Yes,43,35,Normal Self-Esteem,60,17,13,11,11,10,10,72,40,2,5,4,1,2,1,41,Withdrawn
+12577,Female,20,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,13,34,Normal Self-Esteem,43,7,15,5,10,7,4,48,41,0,0,2,1,1,1,78,Enrolled
+10102,Female,20,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,17,32,Normal Self-Esteem,28,18,9,9,9,10,12,67,42,1,4,1,1,2,1,58,Enrolled
+10372,Female,20,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,8,35,Normal Self-Esteem,29,22,9,9,11,12,11,74,42,0,0,1,1,1,1,52,Enrolled
+13354,Female,54,Australia,FullTime, ,FullTime , , ,  ,No,No,3,36,Normal Self-Esteem,41,14,10,8,6,7,8,53,42,3,2,3,1,1,1,63,Enrolled
+13648,Female,26,Australia,FullTime, ,FullTime , , ,  ,No,No,44,29,Normal Self-Esteem,49,21,10,10,7,10,10,68,43,1,5,4,1,2,1,52,Withdrawn
+12532,Female,34,Australia,FullTime, ,FullTime , , ,  ,Yes,No,15,31,Normal Self-Esteem,24,23,12,10,10,10,12,77,43,0,1,2,1,1,1,52,Enrolled
+13753,Female,43,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,No,No,38,31,Normal Self-Esteem,46,19,9,7,8,8,8,59,43,1,3,4,1,1,1,62,Enrolled
+17752,Female,37,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,7,36,Normal Self-Esteem,29,21,11,7,12,11,12,74,43,0,2,1,1,1,1,55,Enrolled
+10669,Female,35,Australia,FullTime, ,FullTime , , ,  ,No,No,8,40,Normal Self-Esteem,30,24,14,10,12,11,11,82,43,0,1,0,1,1,1,30,Withdrawn
+17323,Female,32,Australia,FullTime, ,FullTime , , ,  ,No,No,37,28,Normal Self-Esteem,22,23,2,8,12,12,8,65,47,0,0,1,1,1,1,56,Enrolled
+11578,Female,21,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,No,Yes,29,35,Normal Self-Esteem,28,24,12,12,8,12,12,80,47,0,0,0,1,1,1,32,Enrolled
+13720,Female,24,Australia,FullTime, ,FullTime , , ,  ,No,No,10,26,Normal Self-Esteem,35,18,10,11,8,11,8,66,48,0,3,5,1,1,1,55,Enrolled
+17800,Female,27,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,43,29,Normal Self-Esteem,39,19,7,9,8,9,5,57,48,2,5,9,1,2,2,71,Enrolled
+17338,Female,46,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,No,No,43,35,Normal Self-Esteem,45,18,9,9,10,9,10,65,49,3,6,8,1,3,2,50,Enrolled
+12850,Female,21,Australia,FullTime, ,FullTime , , ,  ,Yes,No,45,25,Normal Self-Esteem,42,13,14,5,7,8,8,55,50,3,1,4,1,1,1,57,Enrolled
+12712,Female,30,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,No,Yes,39,26,Normal Self-Esteem,46,16,8,7,10,10,4,55,50,4,1,4,1,1,1,60,Enrolled
+11878,Female,26,Australia,FullTime, ,FullTime , , ,  ,No,Yes,29,36,Normal Self-Esteem,34,13,8,6,10,9,10,56,50,1,4,3,1,2,1,44,Enrolled
+11644,Female,45,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,43,36,Normal Self-Esteem,50,15,10,10,8,9,11,63,50,1,2,5,1,1,1,48,Enrolled
+12775,Female,24,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,15,27,Normal Self-Esteem,40,19,11,9,5,9,12,65,51,4,5,7,1,2,1,58,Enrolled
+10534,Female,25,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,55,34,Normal Self-Esteem,59,8,14,10,9,10,7,58,51,0,12,7,1,5,1,51,Enrolled
+17611,Female,42,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,26,27,Normal Self-Esteem,45,15,8,7,6,8,9,53,52,4,4,7,1,2,1,65,Enrolled
+17305,Female,48,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,75,32,Normal Self-Esteem,30,17,9,11,4,8,8,57,53,3,4,3,1,2,1,69,Enrolled
+10654,Female,22,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,41,36,Normal Self-Esteem,47,21,12,9,6,11,10,69,53,1,3,11,1,1,3,45,Enrolled
+12073,Female,24,Australia,FullTime, ,FullTime , , ,  ,No,No,34,31,Normal Self-Esteem,36,15,12,12,11,9,12,71,55,0,1,4,1,1,1,32,Enrolled
+11650,Female,25,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,45,29,Normal Self-Esteem,48,15,8,6,8,5,10,52,56,4,9,8,1,4,2,61,Enrolled
+16333,Female,25,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,60,29,Normal Self-Esteem,57,20,12,6,8,7,9,62,56,4,6,6,1,3,1,49,Enrolled
+10444,Female,19,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,No,23,33,Normal Self-Esteem,35,13,7,8,8,10,12,58,57,2,4,6,1,2,1,57,Enrolled
+12808,Female,33,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,81,33,Normal Self-Esteem,46,16,11,8,8,8,9,60,58,2,2,5,1,1,1,40,Enrolled
+13732,Female,31,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,23,35,Normal Self-Esteem,41,13,9,10,6,9,9,56,58,4,7,10,1,3,3,59,Withdrawn
+17044,Female,33,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,41,40,Normal Self-Esteem,24,19,12,12,11,10,9,73,58,1,2,5,1,1,1,36,Enrolled
+17425,Female,43,Australia,FullTime, ,FullTime , , ,  ,No,No,45,26,Normal Self-Esteem,48,13,9,6,10,6,6,50,59,1,1,9,1,1,2,44,Enrolled
+ ,Female,47,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,59,29,Normal Self-Esteem,32,15,11,6,8,10,11,61,59,1,0,4,1,1,1,57,#N/A
+10402,Female,19,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,84,31,Normal Self-Esteem,67,10,9,10,8,12,10,59,59,1,3,7,1,1,1,52,Enrolled
+10357,Female,21,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,58,26,Normal Self-Esteem,40,5,14,10,4,10,8,51,60,3,6,10,1,3,3,56,Enrolled
+17197,Female,21,Australia,FullTime, ,FullTime , , ,  ,No,No,11,29,Normal Self-Esteem,42,9,7,11,11,12,12,62,60,3,8,9,1,4,2,58,Enrolled
+13486,Female,24,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,51,31,Normal Self-Esteem,48,11,8,7,8,10,11,55,60,3,5,6,1,2,1,69,Withdrawn
+13450,Female,22,Australia,FullTime, ,FullTime , , ,  ,No,No,41,34,Normal Self-Esteem,40,18,7,9,10,12,9,65,60,1,2,1,1,1,1,52,Withdrawn
+17794,Female,24,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,45,25,Normal Self-Esteem,38,14,7,10,8,9,10,58,61,2,1,8,1,1,2,61,Enrolled
+10465,Female,21,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,28,27,Normal Self-Esteem,44,18,9,7,7,11,9,61,61,2,6,7,1,3,1,53,Withdrawn
+11662,Female,30,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,47,28,Normal Self-Esteem,49,13,10,10,7,10,10,60,61,3,0,4,1,1,1,48,Enrolled
+11635,Female,47,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,76,27,Normal Self-Esteem,40,16,9,7,10,11,11,64,63,1,4,5,1,2,1,53,Enrolled
+12190,Female,31,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,13,32,Normal Self-Esteem,47,9,11,9,6,11,10,56,63,2,14,8,1,5,2,71,Enrolled
+17812,Female,26,Australia,FullTime, ,FullTime , , ,  ,No,No,78,33,Normal Self-Esteem,57,12,12,8,10,9,11,62,63,1,2,5,1,1,1,62,Enrolled
+12646,Female,33,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,82,25,Normal Self-Esteem,57,9,9,6,7,7,8,46,64,4,4,13,1,2,4,52,Enrolled
+12691,Female,37,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,81,25,Normal Self-Esteem,42,10,9,8,7,8,8,50,64,1,1,3,1,1,1,62,Enrolled
+11572,Female,40,Australia,FullTime, ,FullTime , , ,  ,No,Yes,12,32,Normal Self-Esteem,55,8,8,5,12,9,8,50,64,4,11,14,1,5,4,29,Withdrawn
+12163,Female,48,Australia,FullTime, ,FullTime , , ,  ,No,No,74,40,Normal Self-Esteem,35,18,16,12,12,11,12,81,64,2,4,9,1,2,2,26,Enrolled
+12745,Female,21,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,81,29,Normal Self-Esteem,68,6,9,3,6,5,12,41,65,0,5,5,1,2,1,63,Withdrawn
+10711,Female,18,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,No,No,24,33,Normal Self-Esteem,34,12,12,6,11,8,11,60,67,0,0,1,1,1,1,64,Withdrawn
+12841,Female,21,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,66,22,Normal Self-Esteem,45,8,9,8,7,8,9,49,68,4,4,12,1,2,3,59,Enrolled
+15385,Female,22,Australia,FullTime, ,FullTime , , ,  ,Yes,No,49,39,Normal Self-Esteem,76,10,5,4,9,8,2,38,69,3,5,18,1,2,5,65,Enrolled
+12118,Female,26,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,48,30,Normal Self-Esteem,36,4,7,5,9,10,10,45,71,2,5,10,1,2,3,35,Enrolled
+12838,Female,18,Australia,FullTime, ,FullTime , , ,  ,No,No,51,24,Normal Self-Esteem,50,5,11,2,5,9,12,44,74,3,4,8,1,2,2,56,Withdrawn
+12739,Female,27,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,74,27,Normal Self-Esteem,41,3,7,9,8,5,6,38,75,0,0,13,1,1,4,47,Withdrawn
+10426,Female,20,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,26,36,Normal Self-Esteem,48,0,11,5,8,8,12,44,75,0,3,5,1,1,1,69,Enrolled
+11515,Female,21,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,35,35,Normal Self-Esteem,39,13,11,11,8,8,10,61,76,1,3,9,1,1,2,81,Enrolled
+12037,Female,36,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,25,27,Normal Self-Esteem,35,22,16,12,8,11,6,75,20,3,3,6,1,1,1,54,Withdrawn
+13456,Female,34,Australia, ,PartTime, PartTime,Online, ,Online ,No,No,12,39,Normal Self-Esteem,23,24,13,12,12,9,12,82,20,0,0,0,1,1,1,38,Enrolled
+12259,Female,36,Australia, ,PartTime, PartTime,Online, ,Online ,No,No,22,40,Normal Self-Esteem,23,24,10,11,11,12,11,79,20,0,0,0,1,1,1,31,Withdrawn
+10543,Female,30,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,9,37,Normal Self-Esteem,37,22,16,10,12,10,12,82,21,0,0,2,1,1,1,31,Withdrawn
+11317,Female,55,Australia, ,PartTime, PartTime,Online, ,Online ,No,No,21,33,Normal Self-Esteem,35,19,9,6,12,9,11,66,22,1,0,1,1,1,1,47,Withdrawn
+10384,Female,36,Australia, , ,  ,Online, ,Online ,No,No,14,40,Normal Self-Esteem,24,22,10,11,8,11,11,73,22,0,0,2,1,1,1,47,Enrolled
+10027,Female,46,Australia, , ,  ,Online, ,Online ,No,No,72,36,Normal Self-Esteem,56,15,12,4,12,10,8,61,23,1,2,3,1,1,1,58,Enrolled
+13642,Female,45,Australia, , ,  ,Online, ,Online ,Yes,No,6,35,Normal Self-Esteem,43,19,8,8,10,11,9,65,24,2,0,0,1,1,1,40,Enrolled
+12730,Female,42,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,No,47,35,Normal Self-Esteem,29,24,16,8,10,11,10,79,28,2,0,6,1,1,1,45,Withdrawn
+6307,Female,29,Australia, , ,  ,Online, ,Online ,Yes,No,20,31,Normal Self-Esteem,32,21,9,10,9,10,11,70,30,2,1,5,1,1,1,72,Enrolled
+11689,Female,26,Australia, ,PartTime, PartTime,Online, ,Online ,No,Yes,33,33,Normal Self-Esteem,38,20,14,11,11,7,8,71,30,2,3,7,1,1,1,47,Withdrawn
+12148,Female,44,Australia, ,PartTime, PartTime,Online, ,Online ,No,No,4,37,Normal Self-Esteem,42,23,8,8,10,12,9,70,30,1,0,0,1,1,1,39,Enrolled
+11353,Female,41,Australia, ,PartTime, PartTime,Online, ,Online ,No,No,11,39,Normal Self-Esteem,31,23,11,11,9,11,11,76,30,0,1,2,1,1,1,56,Enrolled
+10333,Female,29,Australia, , ,  ,Online, ,Online ,No,Yes,21,36,Normal Self-Esteem,36,16,12,6,4,9,10,57,31,2,2,6,1,1,1,74,Enrolled
+17590,Female,36,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,23,35,Normal Self-Esteem,30,20,13,11,12,10,11,77,32,0,0,2,1,1,1,63,Enrolled
+12835,Female,36,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,No,24,28,Normal Self-Esteem,34,23,9,8,9,7,11,67,33,2,0,5,1,1,1,78,Enrolled
+10558,Female,32,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,18,40,Normal Self-Esteem,26,21,15,12,12,10,12,82,33,0,0,0,1,1,1,36,Withdrawn
+17062,Female,39,Australia, , ,  ,Online, ,Online ,Yes,No,28,32,Normal Self-Esteem,31,23,8,9,10,11,9,70,35,1,3,8,1,1,2,44,Enrolled
+4471,Female,32,Australia, , ,  ,Online, ,Online ,Yes,Yes,8,40,Normal Self-Esteem,28,19,10,6,11,7,9,62,36,0,1,1,1,1,1,34,Withdrawn
+13309,Female,20,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,49,33,Normal Self-Esteem,44,8,14,9,2,3,5,41,37,2,6,7,1,3,1,56,Enrolled
+11815,Female,36,Australia, , ,  ,Online, ,Online ,No,No,14,30,Normal Self-Esteem,34,19,8,10,9,11,11,68,39,0,1,5,1,1,1,68,Enrolled
+16168,Female,50,Australia, ,PartTime, PartTime,Online,OnCampus,OnlineOnCampus,Yes,Yes,26,30,Normal Self-Esteem,48,18,11,7,8,10,8,62,39,1,6,5,1,3,1,54,Enrolled
+10684,Female,38,Australia, , ,  ,Online, ,Online ,Yes,No,60,34,Normal Self-Esteem,40,22,13,11,10,11,10,77,39,1,2,1,1,1,1,42,Enrolled
+15082,Female,48,Australia, ,PartTime, PartTime,Online, ,Online ,No,Yes,26,34,Normal Self-Esteem,31,21,8,12,11,10,12,74,39,1,0,2,1,1,1,38,Enrolled
+13432,Female,38,Australia, ,PartTime, PartTime,Online, ,Online ,No,No,27,37,Normal Self-Esteem,44,21,6,11,6,12,9,65,39,2,0,1,1,1,1,34,Withdrawn
+10495,Female,36,Australia, , ,  ,Online, ,Online ,No,Yes,25,39,Normal Self-Esteem,26,22,12,11,11,11,12,79,39,0,0,1,1,1,1,30,Enrolled
+11131,Female,32,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,21,29,Normal Self-Esteem,39,19,10,6,11,9,10,65,40,3,2,5,1,1,1,42,Withdrawn
+13834,Female,41,Australia, ,PartTime, PartTime,Online, ,Online ,No,Yes,38,29,Normal Self-Esteem,39,13,13,9,12,11,8,66,40,0,2,3,1,1,1,51,Enrolled
+13489,Female,26,Australia, ,PartTime, PartTime,Online, ,Online ,No,No,24,32,Normal Self-Esteem,29,16,14,8,11,8,12,69,40,1,1,1,1,1,1,54,Enrolled
+10237,Female,30,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,44,27,Normal Self-Esteem,56,15,8,8,7,8,11,57,41,4,3,7,1,1,1,71,Enrolled
+13285,Female,46,Australia, , ,  ,Online, ,Online ,No,Yes,20,28,Normal Self-Esteem,35,21,6,9,9,11,8,64,41,0,0,5,1,1,1,53,Enrolled
+12301,Female,22,Australia, , ,  ,Online, ,Online ,No,Yes,16,29,Normal Self-Esteem,25,22,5,8,10,12,10,67,41,1,0,2,1,1,1,50,Enrolled
+11992,Female,44,Australia, , ,  ,Online, ,Online ,No,No,46,31,Normal Self-Esteem,66,19,8,10,11,10,8,66,41,3,1,3,1,1,1,65,Enrolled
+13369,Female,23,Australia, ,PartTime, PartTime,Online, ,Online ,No,No,17,32,Normal Self-Esteem,39,18,10,8,9,8,11,64,41,0,1,4,1,1,1,50,Withdrawn
+12004,Female,24,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,15,39,Normal Self-Esteem,56,20,16,12,12,9,12,81,41,4,2,11,1,1,3,60,#N/A
+7822,Female,47,Australia, , ,  ,Online, ,Online ,Yes,Yes,24,29,Normal Self-Esteem,45,16,11,10,9,7,9,62,42,1,5,6,1,2,1,67,Enrolled
+11608,Female,53,Australia, , ,  ,Online, ,Online ,Yes,Yes,32,37,Normal Self-Esteem,36,16,10,12,7,9,11,65,42,2,4,4,1,2,1,30,Withdrawn
+13411,Female,54,Australia, ,PartTime, PartTime,Online, ,Online ,No,No,17,28,Normal Self-Esteem,54,12,9,7,11,8,9,56,43,0,0,4,1,1,1,51,Enrolled
+11557,Female,24,Australia, , ,  ,Online, ,Online ,No,No,12,29,Normal Self-Esteem,27,24,5,6,12,12,8,67,43,0,0,0,1,1,1,60,Withdrawn
+13744,Female,33,Australia, ,PartTime, PartTime,Online,OnCampus,OnlineOnCampus,No,No,12,33,Normal Self-Esteem,34,16,14,8,11,7,10,66,43,2,2,8,1,1,2,58,Withdrawn
+10051,Female,38,Australia, , ,  ,Online, ,Online ,No,No,27,36,Normal Self-Esteem,42,20,11,7,10,11,10,69,43,1,0,0,1,1,1,69,Enrolled
+13306,Female,50,Australia, , ,  ,Online, ,Online ,Yes,Yes,15,37,Normal Self-Esteem,64,14,14,10,8,12,11,69,43,2,0,5,1,1,1,41,Enrolled
+12472,Female,55,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,No,19,35,Normal Self-Esteem,22,22,8,10,11,9,11,71,44,1,1,0,1,1,1,57,Enrolled
+11371,Female,29,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,31,36,Normal Self-Esteem,62,21,13,9,11,11,12,77,44,1,0,4,1,1,1,50,Enrolled
+12328,Female,29,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,36,37,Normal Self-Esteem,44,15,9,9,5,6,6,50,44,1,2,0,1,1,1,68,Enrolled
+13276,Female,28,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,36,28,Normal Self-Esteem,48,14,10,8,6,11,11,60,45,1,6,5,1,3,1,54,Enrolled
+10642,Female,32,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,No,11,28,Normal Self-Esteem,37,18,8,8,10,9,11,64,45,2,0,3,1,1,1,84,Withdrawn
+13387,Female,32,Australia, ,PartTime, PartTime,Online, ,Online ,No,No,14,35,Normal Self-Esteem,26,18,15,9,11,10,10,73,45,0,0,0,1,1,1,53,Enrolled
+11905,Female,44,Australia, ,PartTime, PartTime,Online, ,Online ,No,Yes,17,35,Normal Self-Esteem,35,17,12,11,9,10,9,68,45,4,3,7,1,1,1,33,Withdrawn
+10699,Female,38,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,No,13,31,Normal Self-Esteem,35,16,11,9,10,9,9,64,46,0,1,6,1,1,1,67,Enrolled
+13459,Female,41,Australia, , ,  ,Online, ,Online ,Yes,Yes,25,31,Normal Self-Esteem,37,17,8,11,10,6,10,62,46,2,0,2,1,1,1,73,Withdrawn
+14599,Female,37,Australia, , ,  ,Online, ,Online ,Yes,Yes,22,40,Normal Self-Esteem,40,21,9,12,7,8,9,66,46,2,1,1,1,1,1,60,Enrolled
+11863,Female,30,Australia, , ,  ,Online, ,Online ,Yes,Yes,46,27,Normal Self-Esteem,36,12,9,10,10,10,9,60,47,1,6,5,1,3,1,60,Withdrawn
+11653,Female,43,Australia, , ,  ,Online, ,Online ,Yes,Yes,21,29,Normal Self-Esteem,38,16,10,11,11,11,11,70,47,1,6,9,1,3,2,57,Enrolled
+12820,Female,29,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,No,50,32,Normal Self-Esteem,53,10,10,4,6,6,8,44,47,3,6,5,1,3,1,80,Enrolled
+11407,Female,34,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,22,36,Normal Self-Esteem,31,16,13,12,10,8,10,69,47,1,0,3,1,1,1,80,Enrolled
+11959,Female,33,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,26,30,Normal Self-Esteem,31,14,9,9,8,8,11,59,48,2,2,6,1,1,1,56,Enrolled
+11455,Female,41,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,No,25,25,Normal Self-Esteem,34,18,11,9,10,11,6,65,49,1,0,2,1,1,1,67,Withdrawn
+11956,Female,26,Australia, ,PartTime, PartTime,Online,OnCampus,OnlineOnCampus,No,No,73,27,Normal Self-Esteem,42,11,7,8,8,6,8,48,49,2,5,16,1,2,4,56,Enrolled
+13714,Female,23,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,62,29,Normal Self-Esteem,38,9,6,3,1,8,7,34,49,2,2,6,1,1,1,78,Enrolled
+12715,Female,37,Australia, , ,  ,Online, ,Online ,No,Yes,39,29,Normal Self-Esteem,33,16,7,7,8,9,9,56,49,2,1,7,1,1,1,59,Enrolled
+9934,Female,26,Australia, ,PartTime, PartTime,Online, ,Online ,No,Yes,24,40,Normal Self-Esteem,40,17,16,10,11,5,12,71,49,0,0,2,1,1,1,35,Withdrawn
+13273,Female,45,Australia, ,PartTime, PartTime,Online, ,Online ,No,Yes,47,27,Normal Self-Esteem,76,20,12,9,4,6,9,60,50,1,6,6,1,3,1,39,Withdrawn
+17788,Female,47,Australia, ,PartTime, PartTime,Online, ,Online ,No,Yes,21,33,Normal Self-Esteem,43,18,11,12,10,9,11,71,50,0,1,4,1,1,1,64,Enrolled
+10540,Female,23,Australia, , ,  ,Online, ,Online ,Yes,Yes,18,34,Normal Self-Esteem,35,10,8,6,8,10,11,53,50,0,0,1,1,1,1,64,Withdrawn
+11170,Female,29,Australia, , ,  ,Online, ,Online ,Yes,Yes,45,26,Normal Self-Esteem,44,14,5,9,9,8,8,53,51,3,2,9,1,1,2,64,Enrolled
+10369,Female,33,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,45,27,Normal Self-Esteem,42,15,12,10,10,7,10,64,51,3,4,7,1,2,1,57,Enrolled
+15157,Female,44,Australia, ,PartTime, PartTime,Online, ,Online ,No,No,32,29,Normal Self-Esteem,27,18,9,8,12,11,11,69,51,0,0,7,1,1,1,62,Enrolled
+15055,Female,41,Australia, , ,  ,Online, ,Online ,Yes,Yes,57,30,Normal Self-Esteem,41,15,10,10,11,10,9,65,51,3,4,9,1,2,2,57,Enrolled
+17803,Female,34,Australia, ,PartTime, PartTime,Online,OnCampus,OnlineOnCampus,No,No,33,32,Normal Self-Esteem,38,19,8,8,11,11,10,67,51,1,0,4,1,1,1,48,Enrolled
+9853,Female,25,Australia, ,PartTime, PartTime,Online, ,Online ,No,Yes,34,35,Normal Self-Esteem,31,20,11,9,11,11,12,74,51,4,5,7,1,2,1,35,Withdrawn
+17170,Female,31,Australia, , ,  ,Online, ,Online ,Yes,Yes,15,29,Normal Self-Esteem,33,19,8,10,10,9,10,66,52,1,1,5,1,1,1,58,Enrolled
+13690,Female,44,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,74,29,Normal Self-Esteem,51,10,9,6,7,5,7,44,52,2,1,7,1,1,1,59,Enrolled
+17809,Female,33,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,28,31,Normal Self-Esteem,56,9,11,5,9,10,11,55,52,4,3,10,1,1,3,58,Enrolled
+8677,Female,36,Australia, ,PartTime, PartTime,Online, ,Online ,No,No,23,40,Normal Self-Esteem,38,20,12,12,10,11,11,76,52,2,0,2,1,1,1,40,Withdrawn
+12202,Female,40,Australia, , ,  ,Online, ,Online ,No,No,18,27,Normal Self-Esteem,43,18,4,6,10,10,8,56,53,0,2,2,1,1,1,60,Withdrawn
+12130,Female,25,Australia, , ,  ,Online, ,Online ,Yes,Yes,17,30,Normal Self-Esteem,40,16,8,7,10,8,12,61,53,0,9,8,1,4,2,60,Withdrawn
+11836,Female,27,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,30,34,Normal Self-Esteem,38,20,6,10,10,11,10,67,53,3,0,2,1,1,1,56,Withdrawn
+13531,Female,53,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,55,24,Normal Self-Esteem,50,14,9,7,5,11,9,55,54,2,2,11,1,1,3,55,Enrolled
+12571,Female,30,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,41,32,Normal Self-Esteem,37,13,12,3,7,6,10,51,54,1,6,12,1,3,3,79,Enrolled
+13339,Female,29,Australia, ,PartTime, PartTime,Online, ,Online ,No,No,49,33,Normal Self-Esteem,40,15,10,8,11,8,8,60,54,3,3,10,1,1,3,51,Withdrawn
+10471,Female,42,Australia, , ,  ,Online, ,Online ,Yes,Yes,64,35,Normal Self-Esteem,52,9,14,9,6,6,8,52,54,1,0,9,1,1,2,41,Enrolled
+11599,Female,22,Australia, , ,  ,Online, ,Online ,Yes,Yes,67,36,Normal Self-Esteem,50,12,6,7,11,9,8,53,54,1,0,1,1,1,1,38,Withdrawn
+13318,Female,31,Australia, ,PartTime, PartTime,Online, ,Online ,No,No,58,24,Normal Self-Esteem,35,19,16,7,8,12,12,74,55,0,2,12,1,1,3,51,Withdrawn
+11113,Female,46,Australia, , ,  ,Online, ,Online ,Yes,Yes,46,29,Normal Self-Esteem,45,18,13,12,12,9,11,75,55,2,1,2,1,1,1,60,Withdrawn
+16831,Female,50,Australia, , ,  ,Online, ,Online ,Yes,Yes,35,29,Normal Self-Esteem,39,15,6,10,7,8,11,57,55,3,3,6,1,1,1,74,Enrolled
+10243,Female,30,Australia, , ,  ,Online, ,Online ,No,No,39,35,Normal Self-Esteem,30,16,12,12,11,9,11,71,55,0,7,5,1,3,1,55,Enrolled
+11542,Female,27,Australia, , ,  ,Online, ,Online ,Yes,Yes,44,34,Normal Self-Esteem,60,17,8,9,11,10,12,67,56,1,0,5,1,1,1,57,Enrolled
+11839,Female,32,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,47,38,Normal Self-Esteem,42,20,11,9,11,10,11,72,56,2,0,9,1,1,2,62,Withdrawn
+9751,Female,25,Australia, , ,  ,Online, ,Online ,Yes,Yes,45,25,Normal Self-Esteem,41,16,7,8,10,9,10,60,57,1,7,6,1,3,1,71,Enrolled
+16141,Female,38,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,66,27,Normal Self-Esteem,47,11,9,9,6,2,11,48,57,1,4,7,1,2,1,90,Enrolled
+12109,Female,57,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,54,28,Normal Self-Esteem,53,18,10,5,10,11,10,64,57,2,3,8,1,1,2,74,Enrolled
+17245,Female,37,Australia, , ,  ,Online, ,Online ,Yes,Yes,84,29,Normal Self-Esteem,61,9,10,4,8,3,10,44,57,2,5,2,1,2,1,62,Withdrawn
+13264,Female,39,Australia, , ,  ,Online, ,Online ,Yes,Yes,25,34,Normal Self-Esteem,36,10,8,7,6,7,8,46,57,2,3,6,1,1,1,47,Withdrawn
+11701,Female,30,Australia, ,PartTime, PartTime,Online, ,Online ,No,No,42,35,Normal Self-Esteem,41,15,10,7,11,8,11,62,57,2,7,8,1,3,2,61,Withdrawn
+12733,Female,30,Australia, ,PartTime, PartTime,Online, ,Online ,No,Yes,41,23,Normal Self-Esteem,66,11,10,4,7,7,8,47,59,2,3,2,1,1,1,60,Enrolled
+17182,Female,29,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,82,26,Normal Self-Esteem,71,10,16,12,8,11,12,69,60,3,3,4,1,1,1,59,Enrolled
+13384,Female,25,Australia, , ,  ,Online, ,Online ,No,No,42,29,Normal Self-Esteem,39,16,11,3,6,8,6,50,60,4,4,7,1,2,1,68,Enrolled
+13678,Female,26,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,57,30,Normal Self-Esteem,38,12,12,8,5,9,11,57,60,2,1,4,1,1,1,49,Withdrawn
+12466,Female,22,Australia, ,PartTime, PartTime,Online, ,Online ,No,No,84,35,Normal Self-Esteem,58,6,13,5,6,2,11,43,60,3,10,14,1,5,4,64,Enrolled
+16645,Female,43,Australia, , ,  ,Online, ,Online ,No,No,41,36,Normal Self-Esteem,44,14,7,5,10,6,9,51,60,0,3,6,1,1,1,51,Enrolled
+17821,Female,32,Australia, , ,  ,Online, ,Online ,No,Yes,49,37,Normal Self-Esteem,60,13,14,11,6,8,12,64,60,1,3,4,1,1,1,69,Enrolled
+17206,Female,21,Australia, , ,  ,Online, ,Online ,Yes,Yes,27,39,Normal Self-Esteem,45,17,14,7,7,12,11,68,61,2,1,5,1,1,1,57,Enrolled
+15268,Female,32,Australia, , ,  ,Online, ,Online ,Yes,Yes,63,21,Normal Self-Esteem,60,10,8,11,5,9,8,51,62,4,14,15,1,5,4,64,Enrolled
+10057,Female,36,Australia, , ,  ,Online, ,Online ,Yes,Yes,51,25,Normal Self-Esteem,59,8,9,6,9,8,9,49,62,3,3,14,1,1,4,41,Enrolled
+13405,Female,22,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,19,34,Normal Self-Esteem,41,12,6,8,8,9,11,54,62,2,1,9,1,1,2,55,Withdrawn
+12418,Female,37,Australia, , ,  ,Online, ,Online ,Yes,Yes,61,39,Normal Self-Esteem,54,11,11,8,9,8,9,56,62,1,4,12,1,2,3,55,Enrolled
+11566,Female,27,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,40,19,Normal Self-Esteem,60,11,8,7,7,8,8,49,63,3,5,13,1,2,4,58,Enrolled
+11176,Female,37,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,59,20,Normal Self-Esteem,65,6,8,3,4,7,6,34,63,4,4,8,1,2,2,62,Enrolled
+17344,Female,52,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,66,29,Normal Self-Esteem,52,14,12,9,5,7,10,57,63,4,2,11,1,1,3,47,Enrolled
+12493,Female,41,Australia, , ,  ,Online, ,Online ,Yes,Yes,62,37,Normal Self-Esteem,39,18,4,10,8,6,11,57,63,3,4,14,1,2,4,51,Withdrawn
+12757,Female,45,Australia, , ,  ,Online, ,Online ,Yes,Yes,54,27,Normal Self-Esteem,43,17,12,7,6,11,10,63,64,3,4,10,1,2,3,60,Enrolled
+8605,Female,37,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,41,23,Normal Self-Esteem,47,12,12,6,6,6,8,50,65,2,2,14,1,1,4,71,Enrolled
+10060,Female,34,Australia, , ,  ,Online, ,Online ,No,Yes,20,38,Normal Self-Esteem,61,13,8,5,9,9,9,53,65,0,0,2,1,1,1,63,Withdrawn
+12553,Female,19,Australia, ,PartTime, PartTime,Online, ,Online ,No,Yes,50,25,Normal Self-Esteem,47,13,6,6,6,4,9,44,66,2,4,4,1,2,1,46,Enrolled
+11950,Female,36,Australia, , ,  ,Online, ,Online ,Yes,Yes,15,35,Normal Self-Esteem,43,12,11,7,10,7,9,56,66,3,8,9,1,4,2,51,Withdrawn
+13336,Female,48,Australia, , ,  ,Online, ,Online ,Yes,Yes,47,27,Normal Self-Esteem,51,12,9,8,7,8,9,53,68,3,1,10,1,1,3,40,Enrolled
+11302,Female,28,Australia, , ,  ,Online, ,Online ,Yes,Yes,44,38,Normal Self-Esteem,56,9,11,7,4,12,12,55,69,2,14,14,1,5,4,62,Enrolled
+11512,Female,30,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,46,21,Normal Self-Esteem,59,6,8,4,9,10,9,46,70,1,12,10,1,5,3,76,Withdrawn
+13879,Female,41,Australia, , ,  ,Online, ,Online ,Yes,Yes,33,26,Normal Self-Esteem,63,10,10,10,8,7,9,54,70,0,1,7,1,1,1,83,Withdrawn
+11857,Female,26,Australia, ,PartTime, PartTime,Online, ,Online ,No,No,48,21,Normal Self-Esteem,58,3,14,2,7,7,9,42,71,3,8,17,1,4,5,74,Enrolled
+11722,Female,23,Australia, , ,  ,Online, ,Online ,Yes,Yes,53,28,Normal Self-Esteem,65,12,9,6,8,9,8,52,72,4,6,12,1,3,3,75,Withdrawn
+12622,Female,24,Australia, ,PartTime, PartTime,Online,OnCampus,OnlineOnCampus,Yes,Yes,86,18,Normal Self-Esteem,77,3,7,5,5,2,6,28,73,3,13,11,1,5,3,59,Enrolled
+10741,Female,40,Australia, , ,  ,Online, ,Online ,No,Yes,67,18,Normal Self-Esteem,54,11,8,5,7,7,9,47,73,2,4,9,1,2,2,58,Enrolled
+12703,Female,25,Australia, , ,  ,Online, ,Online ,No,Yes,39,29,Normal Self-Esteem,42,9,9,11,10,8,8,55,73,1,12,11,1,5,3,29,Enrolled
+9538,Female,28,Australia, , ,  ,Online, ,Online ,Yes,Yes,29,25,Normal Self-Esteem,63,6,9,4,8,9,10,46,75,1,3,9,1,1,2,68,Withdrawn
+11362,Female,22,Australia, , ,  ,Online, ,Online ,Yes,Yes,76,35,Normal Self-Esteem,36,9,4,2,5,5,11,36,76,1,9,11,1,4,3,40,Withdrawn
+13288,Female,44,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,22,39,Normal Self-Esteem,28,22,15,12,11,12,12,84,21,0,1,0,1,1,1,52,Enrolled
+12223,Female,23,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,6,40,Normal Self-Esteem,28,23,14,10,10,9,11,77,26,0,0,0,1,1,1,36,Enrolled
+17269,Female,36,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,40,28,Normal Self-Esteem,38,18,6,9,6,9,9,57,28,2,0,0,1,1,1,67,Enrolled
+10567,Female,38,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,36,39,Normal Self-Esteem,27,22,13,11,11,12,11,80,28,1,0,2,1,1,1,36,Withdrawn
+13510,Female,41,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,61,28,Normal Self-Esteem,37,20,12,8,7,9,8,64,30,1,4,6,1,2,1,34,Withdrawn
+11275,Female,36,Australia,FullTime, ,FullTime ,Online, ,Online ,No,No,55,38,Normal Self-Esteem,32,21,12,11,10,9,12,75,33,0,2,6,1,1,1,39,Withdrawn
+11680,Female,30,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,7,40,Normal Self-Esteem,25,24,11,12,12,8,11,78,33,0,0,1,1,1,1,47,Withdrawn
+10387,Female,22,Australia,FullTime, ,FullTime ,Online, ,Online ,No,No,9,33,Normal Self-Esteem,36,22,13,10,10,10,12,77,34,1,1,3,1,1,1,76,Withdrawn
+12253,Female,38,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,14,35,Normal Self-Esteem,24,22,12,12,10,9,12,77,34,0,0,0,1,1,1,52,Enrolled
+12547,Female,28,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,21,32,Normal Self-Esteem,33,20,14,7,11,10,11,73,35,1,2,2,1,1,1,55,Enrolled
+16306,Female,35,Australia,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,Yes,No,39,35,Normal Self-Esteem,49,18,12,6,6,8,10,60,35,2,3,10,1,1,3,72,Enrolled
+12502,Female,57,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,14,34,Normal Self-Esteem,22,24,7,11,11,12,10,75,36,0,0,0,1,1,1,51,Enrolled
+9910,Female,24,Australia,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,Yes,Yes,8,30,Normal Self-Esteem,28,21,8,10,9,10,10,68,37,2,7,3,1,3,1,48,Enrolled
+10423,Female,25,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,No,23,37,Normal Self-Esteem,62,21,12,11,12,7,12,75,38,4,2,11,1,1,3,62,Enrolled
+12655,Female,29,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,40,32,Normal Self-Esteem,39,22,11,12,10,9,11,75,39,1,0,1,1,1,1,63,Enrolled
+13348,Female,45,Australia,FullTime, ,FullTime ,Online, ,Online ,No,No,15,34,Normal Self-Esteem,39,21,9,11,10,10,10,71,39,0,1,2,1,1,1,50,Enrolled
+11308,Female,35,Australia,FullTime, ,FullTime ,Online, ,Online ,No,Yes,30,29,Normal Self-Esteem,38,14,10,5,11,10,9,59,40,3,3,6,1,1,1,61,Enrolled
+10099,Female,33,Australia,FullTime, ,FullTime ,Online, ,Online ,No,No,8,31,Normal Self-Esteem,24,24,12,11,12,11,11,81,40,0,0,1,1,1,1,44,Withdrawn
+12496,Female,35,Australia,FullTime, ,FullTime ,Online, ,Online ,No,No,33,31,Normal Self-Esteem,29,20,8,4,9,9,9,59,41,0,0,1,1,1,1,64,Enrolled
+10663,Female,24,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,23,33,Normal Self-Esteem,29,18,6,7,11,6,11,59,41,2,2,8,1,1,2,72,Enrolled
+12184,Female,32,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,23,34,Normal Self-Esteem,35,22,12,12,10,12,11,79,41,1,0,5,1,1,1,29,Enrolled
+13705,Female,17,Australia,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,Yes,No,37,35,Normal Self-Esteem,32,17,6,2,10,9,11,55,41,1,5,2,1,2,1,54,Enrolled
+17368,Female,37,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,39,36,Normal Self-Esteem,41,22,15,11,6,12,10,76,41,0,2,1,1,1,1,48,Enrolled
+12112,Female,31,Australia,FullTime, ,FullTime ,Online, ,Online ,No,No,5,37,Normal Self-Esteem,37,24,13,10,12,5,8,72,41,0,0,3,1,1,1,55,Enrolled
+11932,Female,34,Australia,FullTime, ,FullTime ,Online, ,Online ,No,Yes,31,31,Normal Self-Esteem,34,17,6,9,11,10,10,63,42,0,1,1,1,1,1,45,Withdrawn
+12217,Female,29,Australia,FullTime, ,FullTime ,Online, ,Online ,No,No,3,33,Normal Self-Esteem,49,20,6,3,8,8,12,57,42,0,0,3,1,1,1,60,Enrolled
+12274,Female,28,Australia,FullTime, ,FullTime ,Online, ,Online ,No,No,55,34,Normal Self-Esteem,31,22,11,12,10,10,10,75,44,0,1,5,1,1,1,33,Enrolled
+11158,Female,18,Australia,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,Yes,Yes,39,36,Normal Self-Esteem,35,17,15,10,8,11,12,73,44,1,0,5,1,1,1,60,Withdrawn
+17356,Female,39,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,52,29,Normal Self-Esteem,35,15,4,7,8,8,7,49,45,3,8,8,1,4,2,61,Enrolled
+10381,Female,23,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,46,39,Normal Self-Esteem,29,18,11,11,6,7,9,62,45,0,5,6,1,2,1,64,Enrolled
+11524,Female,25,Australia,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,No,Yes,52,29,Normal Self-Esteem,56,14,7,6,9,7,6,49,46,1,4,2,1,2,1,50,Withdrawn
+10735,Female,28,Australia,FullTime, ,FullTime ,Online, ,Online ,No,No,31,38,Normal Self-Esteem,42,12,12,12,9,12,12,69,47,0,3,5,1,1,1,65,Withdrawn
+10447,Female,44,Australia,FullTime, ,FullTime ,Online, ,Online ,No,No,42,16,Normal Self-Esteem,38,18,12,9,9,10,11,69,49,3,0,7,1,1,1,32,Withdrawn
+9949,Female,29,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,38,23,Normal Self-Esteem,51,17,5,6,6,10,7,51,49,2,2,5,1,1,1,57,Withdrawn
+17428,Female,44,Australia,FullTime, ,FullTime ,Online, ,Online ,No,No,40,30,Normal Self-Esteem,25,21,11,10,10,11,12,75,49,0,0,1,1,1,1,42,Enrolled
+11452,Female,27,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,11,32,Normal Self-Esteem,30,16,9,10,7,10,11,63,49,2,1,5,1,1,1,51,Withdrawn
+11671,Female,40,Australia,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,No,No,37,33,Normal Self-Esteem,33,19,10,10,9,8,11,67,49,1,1,6,1,1,1,69,Enrolled
+10519,Female,24,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,20,35,Normal Self-Esteem,34,20,11,9,12,11,10,73,49,4,0,8,1,1,2,42,Enrolled
+10612,Female,36,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,36,26,Normal Self-Esteem,56,16,10,10,7,9,9,61,50,4,0,1,1,1,1,75,Enrolled
+13267,Female,31,Australia,FullTime, ,FullTime ,Online, ,Online ,No,Yes,33,38,Normal Self-Esteem,35,16,13,9,11,8,11,68,50,1,2,4,1,1,1,47,Withdrawn
+12688,Female,26,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,44,35,Normal Self-Esteem,37,14,11,9,7,10,12,63,51,2,7,6,1,3,1,64,Enrolled
+10345,Female,26,Australia,FullTime, ,FullTime ,Online, ,Online ,No,Yes,48,30,Normal Self-Esteem,32,19,3,8,11,10,10,61,52,0,0,3,1,1,1,54,Enrolled
+11569,Female,27,Australia,FullTime, ,FullTime ,Online, ,Online ,No,No,27,28,Normal Self-Esteem,42,14,9,7,8,8,11,57,53,2,9,8,1,4,2,46,Withdrawn
+12610,Female,41,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,28,28,Normal Self-Esteem,40,18,11,8,9,8,5,59,53,0,0,4,1,1,1,36,Enrolled
+11917,Female,45,Australia,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,Yes,Yes,62,30,Normal Self-Esteem,39,21,12,8,9,8,9,67,53,0,2,4,1,1,1,72,Enrolled
+12388,Female,21,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,34,36,Normal Self-Esteem,39,7,5,6,8,7,6,39,54,0,0,3,1,1,1,82,Enrolled
+10021,Female,38,Australia,FullTime, ,FullTime ,Online, ,Online ,No,No,30,28,Normal Self-Esteem,44,20,5,10,11,10,10,66,55,4,2,5,1,1,1,50,Withdrawn
+11119,Female,25,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,49,40,Normal Self-Esteem,75,17,10,8,9,10,11,65,56,4,3,11,1,1,3,40,Enrolled
+12139,Female,29,Australia,FullTime, ,FullTime ,Online, ,Online ,No,Yes,38,37,Normal Self-Esteem,41,17,12,11,12,11,12,75,57,1,1,10,1,1,3,39,Enrolled
+10300,Female,37,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,56,37,Normal Self-Esteem,28,20,10,11,12,8,12,73,58,0,1,3,1,1,1,50,Enrolled
+12124,Female,23,Australia,FullTime, ,FullTime ,Online, ,Online ,No,Yes,32,27,Normal Self-Esteem,55,7,10,6,8,7,12,50,61,1,3,11,1,1,3,48,Enrolled
+10264,Female,27,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,71,29,Normal Self-Esteem,67,7,8,3,7,5,8,38,61,0,3,9,1,1,2,45,Withdrawn
+11461,Female,21,Australia,FullTime, ,FullTime ,Online, ,Online ,No,No,36,29,Normal Self-Esteem,47,9,11,3,8,9,10,50,62,1,5,7,1,2,1,44,Enrolled
+9931,Female,24,Australia,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,Yes,Yes,49,30,Normal Self-Esteem,54,11,7,7,9,10,10,54,63,3,1,10,1,1,3,62,Enrolled
+12088,Female,25,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,62,30,Normal Self-Esteem,46,20,5,7,8,10,8,58,63,2,9,9,1,4,2,64,Enrolled
+12676,Female,28,Australia,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,No,No,68,30,Normal Self-Esteem,42,17,16,8,11,8,12,72,63,3,0,6,1,1,1,42,Enrolled
+12670,Female,37,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,35,33,Normal Self-Esteem,42,15,10,11,8,8,10,62,63,2,2,7,1,1,1,49,Enrolled
+12016,Female,22,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,27,35,Normal Self-Esteem,30,22,8,9,11,12,11,73,63,0,0,1,1,1,1,60,Enrolled
+10744,Female,20,Australia,FullTime, ,FullTime ,Online, ,Online ,No,Yes,29,27,Normal Self-Esteem,46,9,11,5,7,7,9,48,64,2,5,5,1,2,1,71,Withdrawn
+9868,Female,32,Australia,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,Yes,Yes,47,27,Normal Self-Esteem,53,9,9,8,7,7,11,51,65,2,2,9,1,1,2,52,Withdrawn
+10588,Female,25,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,65,27,Normal Self-Esteem,45,8,6,6,6,4,8,38,68,1,0,4,1,1,1,63,Withdrawn
+11623,Female,25,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,22,30,Normal Self-Esteem,26,15,11,10,6,8,12,62,68,1,0,8,1,1,2,63,Withdrawn
+9859 next page,Female,50,Australia,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,Yes,Yes,68,31,Normal Self-Esteem,50,10,13,12,5,12,10,62,72,3,17,18,1,5,5,40,#N/A
+13669,Female,29,Australia,FullTime, ,FullTime ,Online, ,Online ,No,Yes,71,19,Normal Self-Esteem,58,6,7,8,7,11,9,48,77,1,3,4,1,1,1,32,Enrolled
+9859,Female,50,Australia,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,Yes,Yes,65,25,Normal Self-Esteem,47,3,13,12,4,12,11,55,80,0,20,17,1,5,5,28,Withdrawn
+6124,Female,37,Lebanon,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,2,35,Normal Self-Esteem,22,22,16,11,12,11,12,84,34,0,0,0,1,1,1,41,Withdrawn
+10630,Female,38,Lebanon, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,31,36,Normal Self-Esteem,31,6,10,5,8,11,9,49,48,3,2,4,1,1,1,64,Enrolled
+9391,Male,43, , ,PartTime, PartTime, , ,  ,Yes,Yes,68,26,Normal Self-Esteem,63,9,10,7,7,3,10,46,62,6,11,9,2,5,2,68,Enrolled
+9403,Male,25, , , ,  ,Online, ,Online ,Yes,No,50,26,Normal Self-Esteem,56,9,13,5,11,12,10,60,49,5,3,3,2,1,1,53,Withdrawn
+8701,Male,23, ,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,64,26,Normal Self-Esteem,53,11,9,6,5,11,11,53,60,5,8,12,2,4,3,50,Withdrawn
+7258,Female,37, , ,PartTime, PartTime, ,OnCampus, OnCampus,No,No,51,28,Normal Self-Esteem,32,15,10,4,8,7,8,52,45,5,3,2,2,1,1,51,Withdrawn
+9739,Female,33, , ,PartTime, PartTime, , ,  ,Yes,Yes,72,29,Normal Self-Esteem,40,14,12,9,5,8,10,58,45,5,5,14,2,2,4,43,Withdrawn
+9523,Female,28, , ,PartTime, PartTime, , ,  ,Yes,Yes,24,35,Normal Self-Esteem,40,20,4,12,9,10,12,67,47,5,8,5,2,4,1,45,Withdrawn
+7327,Female,21, , ,PartTime, PartTime, , ,  ,Yes,Yes,40,23,Normal Self-Esteem,52,9,7,8,6,10,11,51,61,6,4,11,2,2,3,80,Withdrawn
+8455,Female,36, , ,PartTime, PartTime, , ,  ,Yes,Yes,70,21,Normal Self-Esteem,71,10,7,4,7,4,9,41,76,5,7,14,2,3,4,44,Withdrawn
+9094,Female,20, , ,PartTime, PartTime, , ,  ,Yes,Yes,35,31,Normal Self-Esteem,55,11,7,4,7,10,10,49,76,6,11,21,2,5,5,95,Withdrawn
+7357,Female,24, ,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,No,27,33,Normal Self-Esteem,28,19,10,8,10,6,9,62,47,5,0,8,2,1,2,60,Enrolled
+8458,Female,45, ,FullTime, ,FullTime , , ,  ,Yes,Yes,47,29,Normal Self-Esteem,36,17,4,12,10,8,7,58,48,6,5,5,2,2,1,53,Withdrawn
+17410,Female,29, ,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,30,32,Normal Self-Esteem,39,17,9,8,8,7,9,58,49,5,1,5,2,1,1,69,Enrolled
+9547,Female,33, ,FullTime, ,FullTime , , ,  ,Yes,Yes,57,24,Normal Self-Esteem,54,5,9,6,5,5,6,36,50,6,9,8,2,4,2,57,Enrolled
+8419,Female,19, ,FullTime, ,FullTime , , ,  ,No,No,74,33,Normal Self-Esteem,37,8,13,11,8,8,9,57,65,5,10,14,2,5,4,70,Enrolled
+9463,Female,27, ,FullTime, ,FullTime , , ,  ,Yes,Yes,64,25,Normal Self-Esteem,47,6,8,5,4,10,10,43,72,5,4,9,2,2,2,77,Withdrawn
+9352,Female,27, ,FullTime, ,FullTime , , ,  ,No,No,46,24,Normal Self-Esteem,48,13,10,7,7,7,7,51,79,6,12,15,2,5,4,51,Enrolled
+8452,Female,37, , , ,  ,Online, ,Online ,Yes,No,53,29,Normal Self-Esteem,40,20,11,11,9,10,9,70,45,5,3,8,2,1,2,41,Withdrawn
+9409,Female,27, , , ,  ,Online, ,Online ,Yes,Yes,50,23,Normal Self-Esteem,51,9,9,3,3,11,11,46,52,6,6,9,2,3,2,63,Withdrawn
+9448,Female,29, , ,PartTime, PartTime,Online, ,Online ,No,No,39,25,Normal Self-Esteem,50,13,6,5,6,9,9,48,52,5,0,8,2,1,2,44,Enrolled
+8251,Female,39, , , ,  ,Online, ,Online ,No,Yes,69,24,Normal Self-Esteem,61,14,9,11,8,9,10,61,64,5,7,12,2,3,3,39,Withdrawn
+9757,Female,34, , ,PartTime, PartTime,Online, ,Online ,Yes,Yes,61,27,Normal Self-Esteem,61,2,6,8,5,8,10,39,76,5,10,15,2,5,4,57,Withdrawn
+11473,Female,19, ,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,19,29,Normal Self-Esteem,41,13,7,6,7,8,7,48,40,6,6,8,2,3,2,59,Withdrawn
+8503,Female,31, ,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,60,38,Normal Self-Esteem,37,23,7,10,6,12,10,68,46,5,2,6,2,1,1,29,Enrolled
+6265,Female,23, ,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,Yes,No,85,26,Normal Self-Esteem,40,8,8,5,5,12,10,48,64,6,4,4,2,2,1,80,Enrolled
+9481,Female,36, ,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,86,26,Normal Self-Esteem,44,18,7,8,9,8,11,61,76,5,4,9,2,2,2,56,Enrolled
+10045,Male,33,Australia,FullTime, ,FullTime , , ,  ,No,No,26,36,Normal Self-Esteem,39,17,7,8,7,9,11,59,39,5,3,5,2,1,1,58,Withdrawn
+12166,Male,32,Australia,FullTime, ,FullTime , , ,  ,No,No,43,28,Normal Self-Esteem,31,12,8,3,5,6,6,40,42,5,1,3,2,1,1,55,Enrolled
+8404,Male,25,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,25,30,Normal Self-Esteem,48,21,12,10,8,8,11,70,44,5,1,5,2,1,1,61,Enrolled
+11596,Male,23,Australia,FullTime, ,FullTime , , ,  ,Yes,No,58,29,Normal Self-Esteem,54,4,10,8,7,10,10,49,58,5,6,5,2,3,1,66,Withdrawn
+9901,Male,27,Australia, , ,  ,Online, ,Online ,Yes,Yes,24,24,Normal Self-Esteem,40,20,3,7,10,9,6,55,42,6,4,6,2,2,1,60,Enrolled
+10756,Male,44,Australia, , ,  ,Online, ,Online ,Yes,Yes,53,27,Normal Self-Esteem,45,16,16,7,10,10,9,68,50,6,1,6,2,1,1,48,Withdrawn
+16390,Male,57,Australia, , ,  ,Online, ,Online ,No,Yes,60,29,Normal Self-Esteem,42,17,9,7,6,8,10,57,51,5,5,7,2,2,1,42,Enrolled
+16165,Male,70,Australia, , ,  ,Online, ,Online ,Yes,Yes,64,30,Normal Self-Esteem,53,6,11,9,5,7,12,50,77,6,9,10,2,4,3,49,Enrolled
+17419,Male,23,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,No,26,30,Normal Self-Esteem,35,19,10,6,8,6,6,55,34,6,3,3,2,1,1,66,Enrolled
+10618,Male,25,Australia,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,No,No,33,34,Normal Self-Esteem,44,20,15,11,10,12,11,79,34,5,1,4,2,1,1,27,Withdrawn
+10309,Male,18,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,35,22,Normal Self-Esteem,57,16,5,2,7,9,5,44,48,6,4,5,2,2,1,57,Withdrawn
+17341,Male,38,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,15,27,Normal Self-Esteem,41,15,11,4,9,9,6,54,49,5,4,7,2,2,1,57,Enrolled
+12844,Male,39,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,56,23,Normal Self-Esteem,45,7,6,3,5,5,5,31,56,6,4,9,2,2,2,71,Enrolled
+9943,Male,24,Australia,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,Yes,Yes,54,28,Normal Self-Esteem,43,13,8,6,6,7,8,48,56,5,3,10,2,1,3,67,Withdrawn
+12403,Male,30,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,46,27,Normal Self-Esteem,80,9,12,6,6,8,6,47,57,6,7,13,2,3,4,85,Withdrawn
+10516,Male,24,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,67,23,Normal Self-Esteem,40,13,9,4,7,4,2,39,62,5,3,5,2,1,1,76,Withdrawn
+11929,Male,21,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,68,32,Normal Self-Esteem,57,14,16,8,10,10,12,70,70,5,9,12,2,4,3,52,Withdrawn
+17101,Female,21,Australia, , ,  , ,OnCampus, OnCampus,Yes,Yes,36,26,Normal Self-Esteem,48,16,7,7,8,10,6,54,46,6,7,9,2,3,2,55,Enrolled
+10297,Female,38,Australia, ,PartTime, PartTime, ,OnCampus, OnCampus,Yes,Yes,65,32,Normal Self-Esteem,50,16,11,9,11,9,12,68,55,5,1,12,2,1,3,69,Enrolled
+11374,Female,22,Australia,FullTime, ,FullTime , , ,  ,Yes,No,45,28,Normal Self-Esteem,51,20,6,9,9,10,10,64,40,6,5,7,2,2,1,49,Enrolled
+12592,Female,19,Australia,FullTime, ,FullTime , , ,  ,Yes,No,39,20,Normal Self-Esteem,46,20,7,5,6,9,8,55,41,6,3,4,2,1,1,72,Withdrawn
+16780,Female,23,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,No,Yes,41,29,Normal Self-Esteem,58,12,8,7,6,7,7,47,49,6,7,6,2,3,1,72,Enrolled
+15418,Female,25,Australia,FullTime, ,FullTime , , ,  ,Yes,No,43,29,Normal Self-Esteem,54,12,8,9,5,5,8,47,52,5,9,7,2,4,1,73,Enrolled
+17248,Female,19,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,43,19,Normal Self-Esteem,51,17,10,6,3,2,10,48,57,6,2,3,2,1,1,67,Enrolled
+12556,Female,22,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,41,27,Normal Self-Esteem,60,10,8,9,4,8,8,47,58,6,10,13,2,5,4,66,Enrolled
+13882,Female,37,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,55,30,Normal Self-Esteem,46,14,9,10,6,9,8,56,59,6,5,7,2,2,1,84,Withdrawn
+13711,Female,21,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,70,28,Normal Self-Esteem,74,8,11,7,5,6,7,44,60,6,7,11,2,3,3,73,Enrolled
+10750,Female,34,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,62,32,Normal Self-Esteem,50,18,12,8,11,9,9,67,62,5,6,7,2,3,1,43,Enrolled
+17272,Female,37,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,72,24,Normal Self-Esteem,49,11,5,10,5,8,7,46,63,6,4,19,2,2,5,86,Enrolled
+10291,Female,30,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,No,37,24,Normal Self-Esteem,56,15,9,7,7,6,8,52,64,5,5,8,2,2,2,67,Withdrawn
+10486,Female,27,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,68,24,Normal Self-Esteem,63,7,7,3,5,6,9,37,65,6,9,12,2,4,3,65,Enrolled
+12679,Female,27,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,No,No,78,33,Normal Self-Esteem,48,7,7,4,4,4,11,37,69,6,6,5,2,3,1,52,Enrolled
+13501,Female,29,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,78,25,Normal Self-Esteem,51,13,7,8,8,9,12,57,75,5,6,10,2,3,3,74,Withdrawn
+12889,Female,22,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,70,23,Normal Self-Esteem,56,4,8,2,8,9,9,40,78,6,8,11,2,4,3,72,Withdrawn
+13993,Female,36,Australia, ,PartTime, PartTime,Online, ,Online ,No,No,36,30,Normal Self-Esteem,33,16,8,6,11,10,10,61,36,6,1,8,2,1,2,61,Enrolled
+8281,Female,34,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,No,56,29,Normal Self-Esteem,74,11,11,5,8,5,9,49,42,6,5,9,2,2,2,70,Withdrawn
+12406,Female,28,Australia, ,PartTime, PartTime,Online, ,Online ,No,No,38,31,Normal Self-Esteem,39,13,12,4,4,6,11,50,48,5,0,8,2,1,2,62,Withdrawn
+11620,Female,39,Australia, ,PartTime, PartTime,Online, ,Online ,No,No,63,25,Normal Self-Esteem,59,12,12,6,5,9,3,47,51,6,6,11,2,3,3,42,Withdrawn
+13525,Female,42,Australia, , ,  ,Online, ,Online ,No,Yes,21,28,Normal Self-Esteem,42,18,4,8,11,10,8,59,54,5,6,11,2,3,3,38,Withdrawn
+12046,Female,21,Australia, ,PartTime, PartTime,Online,OnCampus,OnlineOnCampus,Yes,Yes,25,27,Normal Self-Esteem,46,12,3,7,6,7,7,42,56,6,6,9,2,3,2,69,Enrolled
+12589,Female,27,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,48,26,Normal Self-Esteem,44,12,7,6,9,6,10,50,57,5,2,6,2,1,1,65,Withdrawn
+10306,Female,48,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,51,30,Normal Self-Esteem,52,13,10,7,9,7,9,55,60,6,4,8,2,2,2,56,Withdrawn
+11971,Female,40,Australia, , ,  ,Online, ,Online ,Yes,Yes,59,26,Normal Self-Esteem,58,9,13,9,9,7,5,52,64,5,1,11,2,1,3,46,Enrolled
+17224,Female,22,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,55,24,Normal Self-Esteem,50,7,10,3,3,5,10,38,67,6,13,14,2,5,4,70,Enrolled
+10594,Female,39,Australia, , ,  ,Online, ,Online ,Yes,Yes,88,31,Normal Self-Esteem,68,14,9,11,7,4,8,53,67,5,5,16,2,2,4,75,Withdrawn
+11641,Female,41,Australia, ,PartTime, PartTime,Online, ,Online ,No,No,54,24,Normal Self-Esteem,48,8,6,5,10,6,9,44,70,5,4,11,2,2,3,69,Enrolled
+12781,Female,45,Australia, , ,  ,Online, ,Online ,No,Yes,38,28,Normal Self-Esteem,43,12,7,4,11,4,9,47,70,6,8,10,2,4,3,56,Enrolled
+11155,Female,38,Australia, , ,  ,Online, ,Online ,No,Yes,87,27,Normal Self-Esteem,62,4,15,2,9,4,10,44,73,5,1,8,2,1,2,41,#N/A
+9919,Female,33,Australia, , ,  ,Online, ,Online ,Yes,Yes,39,22,Normal Self-Esteem,49,11,7,9,6,6,10,49,74,6,11,11,2,5,3,68,Withdrawn
+13312,Female,21,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,83,29,Normal Self-Esteem,39,10,8,5,6,9,9,47,75,5,10,16,2,5,4,63,Enrolled
+11431,Female,36,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,10,22,Normal Self-Esteem,60,15,6,3,6,8,11,49,21,6,3,8,2,1,2,82,Withdrawn
+13330,Female,22,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,67,27,Normal Self-Esteem,45,12,13,7,5,9,9,55,27,5,1,3,2,1,1,64,Enrolled
+17797,Female,30,Australia,FullTime, ,FullTime ,Online, ,Online ,No,No,40,36,Normal Self-Esteem,43,18,10,9,9,9,10,65,29,6,1,11,2,1,3,73,Enrolled
+13396,Female,47,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,44,35,Normal Self-Esteem,51,22,6,11,9,9,7,64,45,5,5,10,2,2,3,45,Withdrawn
+17392,Female,32,Australia,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,Yes,Yes,10,23,Normal Self-Esteem,38,22,9,10,11,11,11,74,47,5,0,2,2,1,1,75,Enrolled
+11323,Female,22,Australia,FullTime, ,FullTime ,Online, ,Online ,No,No,61,28,Normal Self-Esteem,39,9,11,8,8,4,10,50,47,6,3,11,2,1,3,58,Enrolled
+10024,Female,23,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,No,23,28,Normal Self-Esteem,44,12,6,11,11,5,9,54,48,5,3,8,2,1,2,49,Withdrawn
+12187,Female,36,Australia,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,No,Yes,22,29,Normal Self-Esteem,47,18,10,7,7,9,11,62,53,5,0,5,2,1,1,50,Enrolled
+11716,Female,25,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,72,34,Normal Self-Esteem,56,15,7,8,8,8,11,57,53,6,2,15,2,1,4,63,Withdrawn
+11518,Female,38,Australia,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,Yes,Yes,40,34,Normal Self-Esteem,60,12,13,11,6,11,10,63,56,5,9,3,2,4,1,63,Enrolled
+12238,Female,46,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,29,25,Normal Self-Esteem,47,17,7,8,9,11,10,62,57,6,1,7,2,1,1,67,Enrolled
+13840,Female,31,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,46,28,Normal Self-Esteem,47,12,10,7,8,7,11,55,59,6,4,13,2,2,4,60,Withdrawn
+10576,Female,33,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,62,23,Normal Self-Esteem,66,3,4,4,3,7,8,29,62,6,11,14,2,5,4,50,Withdrawn
+12619,Female,26,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,80,26,Normal Self-Esteem,45,3,8,4,6,6,11,38,64,6,9,8,2,4,2,65,Withdrawn
+12766,Female,29,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,62,18,Normal Self-Esteem,53,6,6,1,7,9,10,39,76,6,4,8,2,2,2,77,Enrolled
+10555,Female,21,Australia,FullTime, ,FullTime ,Online, ,Online ,No,Yes,58,27,Normal Self-Esteem,58,9,3,3,7,7,8,37,78,5,13,7,2,5,1,93,Enrolled
+17314,Female,20,Austria,FullTime, ,FullTime , ,OnCampus, OnCampus,No,No,67,32,Normal Self-Esteem,64,3,12,10,7,2,6,40,62,6,3,9,2,1,2,65,Enrolled
+9976,Female,21,Indonesia,FullTime, ,FullTime , , ,  ,Yes,Yes,46,32,Normal Self-Esteem,66,12,13,10,6,8,7,56,48,5,1,4,2,1,1,63,Enrolled
+10018,Male,44,United Kingdom of Great Britain and Northern Ireland,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,55,34,Normal Self-Esteem,30,17,15,9,11,6,8,66,32,5,0,3,2,1,1,57,Enrolled
+17278,Female,24,Viet Nam,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,Yes,Yes,81,35,Normal Self-Esteem,73,1,9,1,6,2,1,20,77,6,14,17,2,5,5,62,Enrolled
+7273,Male,32, , ,PartTime, PartTime, , ,  ,Yes,No,33,25,Normal Self-Esteem,58,14,14,7,11,9,12,67,73,10,3,4,3,1,1,61,Enrolled
+9544,Male,50, ,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,20,27,Normal Self-Esteem,43,20,6,7,7,11,8,59,50,8,2,6,3,1,1,75,Enrolled
+9079,Male,31, ,FullTime, ,FullTime , , ,  ,No,No,62,29,Normal Self-Esteem,59,6,10,4,6,4,8,38,53,7,7,11,3,3,3,55,Withdrawn
+8269,Male,55, , , ,  ,Online, ,Online ,Yes,Yes,59,25,Normal Self-Esteem,61,16,10,8,10,9,8,61,49,7,0,7,3,1,1,47,Withdrawn
+9754,Male,23, , , ,  ,Online, ,Online ,Yes,Yes,52,26,Normal Self-Esteem,53,12,4,7,7,7,8,45,51,8,3,9,3,1,2,83,Withdrawn
+8278,Male,39, , , ,  ,Online, ,Online ,Yes,Yes,24,25,Normal Self-Esteem,48,13,13,10,8,7,8,59,54,7,7,7,3,3,1,62,Withdrawn
+8377,Male,21, , , ,  ,Online, ,Online ,Yes,Yes,59,28,Normal Self-Esteem,53,5,5,7,6,9,11,43,69,9,8,18,3,4,5,57,Withdrawn
+9397,Male,31, ,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,Yes,Yes,14,24,Normal Self-Esteem,39,20,7,7,8,7,11,60,45,7,1,0,3,1,1,43,Withdrawn
+9475,Male,50, ,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,Yes,Yes,33,28,Normal Self-Esteem,56,13,11,9,8,10,9,60,62,8,1,7,3,1,1,59,Enrolled
+8632,Male,22, ,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,Yes,Yes,69,26,Normal Self-Esteem,54,9,11,7,10,9,7,53,63,10,3,12,3,1,3,73,Enrolled
+5626,Female,35, , ,PartTime, PartTime, , ,  ,No,No,34,22,Normal Self-Esteem,47,10,9,8,7,9,10,53,52,8,4,10,3,2,3,44,Enrolled
+4246,Female,30, , ,PartTime, PartTime, , ,  ,Yes,Yes,35,31,Normal Self-Esteem,60,13,11,7,7,9,8,55,61,7,11,9,3,5,2,74,Enrolled
+9103,Female,21, , ,PartTime, PartTime, ,OnCampus, OnCampus,Yes,Yes,34,22,Normal Self-Esteem,50,6,10,3,6,9,10,44,79,8,7,8,3,3,2,50,Withdrawn
+9436,Female,23, ,FullTime, ,FullTime , , ,  ,Yes,Yes,56,25,Normal Self-Esteem,34,18,8,9,9,8,12,64,48,9,7,12,3,3,3,35,Withdrawn
+8692,Female,26, ,FullTime, ,FullTime , , ,  ,Yes,Yes,50,31,Normal Self-Esteem,68,13,14,11,6,8,8,60,55,8,4,13,3,2,4,79,Withdrawn
+8596,Female,30, ,FullTime, ,FullTime , , ,  ,Yes,Yes,67,25,Normal Self-Esteem,65,12,8,7,6,6,6,45,56,9,9,9,3,4,2,62,Withdrawn
+8449,Female,48, ,FullTime, ,FullTime , , ,  ,Yes,Yes,79,24,Normal Self-Esteem,53,9,7,4,5,7,5,37,61,8,9,15,3,4,4,28,Enrolled
+8530,Female,26, ,FullTime, ,FullTime , , ,  ,Yes,Yes,69,27,Normal Self-Esteem,52,9,7,5,4,2,4,31,64,9,12,16,3,5,4,69,Enrolled
+9142,Female,27, ,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,41,26,Normal Self-Esteem,59,7,6,4,6,7,6,36,68,7,7,10,3,3,3,48,Withdrawn
+5521,Female,23, ,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,74,37,Normal Self-Esteem,60,4,10,1,4,7,4,30,70,9,11,11,3,5,3,75,Enrolled
+8494,Female,39, , , ,  ,Online, ,Online ,Yes,Yes,53,26,Normal Self-Esteem,58,15,9,8,9,6,10,57,44,9,4,7,3,2,1,63,Withdrawn
+4687,Female,33, , ,PartTime, PartTime,Online,OnCampus,OnlineOnCampus,Yes,Yes,44,28,Normal Self-Esteem,58,19,14,11,9,8,8,69,48,7,8,6,3,4,1,78,Withdrawn
+8332,Female,46, , , ,  ,Online, ,Online ,Yes,Yes,46,27,Normal Self-Esteem,54,16,12,11,7,9,10,65,52,9,5,10,3,2,3,64,Withdrawn
+8662,Female,46, , ,PartTime, PartTime,Online, ,Online ,Yes,Yes,77,20,Normal Self-Esteem,57,11,11,5,7,10,8,52,59,10,0,10,3,1,3,41,Withdrawn
+9205,Female,32, , ,PartTime, PartTime,Online, ,Online ,Yes,Yes,56,20,Normal Self-Esteem,79,12,9,9,6,12,8,56,62,9,4,9,3,2,2,80,Withdrawn
+7309,Female,35, , , ,  ,Online, ,Online ,Yes,Yes,58,25,Normal Self-Esteem,49,11,11,6,5,8,10,51,62,7,12,18,3,5,5,85,Withdrawn
+8509,Female,24, , , ,  ,Online, ,Online ,Yes,Yes,45,30,Normal Self-Esteem,52,10,7,5,8,8,11,49,64,9,5,7,3,2,1,70,Enrolled
+8749,Female,30, , ,PartTime, PartTime,Online, ,Online ,No,Yes,89,26,Normal Self-Esteem,63,10,9,3,7,7,7,43,67,9,10,9,3,5,2,50,Withdrawn
+9418,Female,44, , , ,  ,Online, ,Online ,No,No,95,21,Normal Self-Esteem,71,11,6,9,7,8,11,52,69,7,5,7,3,2,1,61,Withdrawn
+8335,Female,50, , ,PartTime, PartTime,Online, ,Online ,No,Yes,39,24,Normal Self-Esteem,52,7,4,8,9,8,5,41,75,8,11,14,3,5,4,77,Withdrawn
+8527,Female,42, ,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,No,Yes,24,26,Normal Self-Esteem,46,13,10,7,9,11,11,61,44,7,8,14,3,4,4,66,Withdrawn
+8317,Female,30, ,FullTime, ,FullTime ,Online, ,Online ,No,Yes,38,29,Normal Self-Esteem,62,7,9,7,5,6,7,41,61,8,3,8,3,1,2,58,Enrolled
+8551,Female,26, ,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,69,23,Normal Self-Esteem,65,9,9,6,10,6,5,45,63,8,6,10,3,3,3,67,Withdrawn
+9484,Female,20, ,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,76,25,Normal Self-Esteem,69,5,11,6,7,6,7,42,64,8,7,14,3,3,4,52,Withdrawn
+8698,Female,26, ,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,53,22,Normal Self-Esteem,57,8,9,3,9,7,7,43,73,8,1,12,3,1,3,66,Enrolled
+11101,Male,36,Australia, ,PartTime, PartTime, , ,  ,No,No,25,25,Normal Self-Esteem,44,18,4,7,9,9,7,54,42,7,7,7,3,3,1,60,Enrolled
+8683,Male,19,Australia, ,PartTime, PartTime, , ,  ,Yes,Yes,50,27,Normal Self-Esteem,44,15,7,8,9,8,7,54,48,7,7,7,3,3,1,67,Enrolled
+17350,Male,29,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,33,30,Normal Self-Esteem,48,9,16,6,6,4,12,53,39,10,11,11,3,5,3,77,Enrolled
+12625,Male,35,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,65,29,Normal Self-Esteem,58,15,13,6,7,10,9,60,50,8,2,5,3,1,1,35,Enrolled
+17191,Male,30,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,34,28,Normal Self-Esteem,48,12,7,7,7,7,5,45,53,8,6,8,3,3,2,58,Enrolled
+10408,Male,20,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,47,30,Normal Self-Esteem,39,9,10,9,6,6,5,45,55,10,8,8,3,4,2,62,Withdrawn
+11449,Male,24,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,83,27,Normal Self-Esteem,58,10,12,5,6,3,7,43,57,10,7,10,3,3,3,71,Withdrawn
+12463,Male,35,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,51,27,Normal Self-Esteem,71,5,12,4,8,4,8,41,60,8,5,9,3,2,2,60,Enrolled
+16192,Male,26,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,80,32,Normal Self-Esteem,88,2,11,7,4,7,8,39,72,10,11,18,3,5,5,80,Enrolled
+13483,Male,48,Australia, , ,  ,Online, ,Online ,Yes,Yes,39,29,Normal Self-Esteem,58,19,12,8,8,8,8,63,41,7,4,11,3,2,3,39,Enrolled
+11095,Male,41,Australia, , ,  ,Online, ,Online ,Yes,Yes,34,26,Normal Self-Esteem,42,11,9,3,8,10,8,49,49,7,7,8,3,3,2,68,Enrolled
+4921,Male,32,Australia, , ,  ,Online, ,Online ,Yes,Yes,76,29,Normal Self-Esteem,47,16,13,9,9,9,8,64,56,7,5,7,3,2,1,58,Withdrawn
+10504,Male,29,Australia,FullTime, ,FullTime ,Online, ,Online ,No,No,10,26,Normal Self-Esteem,37,18,13,9,10,11,9,70,31,7,1,7,3,1,1,79,Withdrawn
+10477,Male,26,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,75,26,Normal Self-Esteem,55,9,10,5,7,6,10,47,59,8,3,9,3,1,2,66,Withdrawn
+12055,Male,25,Australia,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,No,Yes,64,26,Normal Self-Esteem,44,15,9,6,8,8,5,51,61,10,4,11,3,2,3,44,Enrolled
+12883,Male,41,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,29,29,Normal Self-Esteem,41,13,6,8,8,12,8,55,61,7,5,12,3,2,3,79,Enrolled
+17185,Male,46,Australia,FullTime, ,FullTime ,Online, ,Online ,No,No,48,19,Normal Self-Esteem,37,9,7,10,4,8,7,45,65,7,12,12,3,5,3,61,Enrolled
+11380,Male,27,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,69,24,Normal Self-Esteem,64,15,14,7,5,7,9,57,66,7,12,7,3,5,1,71,Withdrawn
+10501,Male,25,Australia,FullTime, ,FullTime ,Online, ,Online ,No,No,54,27,Normal Self-Esteem,70,5,9,1,2,10,11,38,71,9,10,9,3,5,2,78,Withdrawn
+12664,Female,39,Australia, ,PartTime, PartTime, , ,  ,Yes,Yes,67,25,Normal Self-Esteem,44,20,8,10,5,5,10,58,42,7,2,5,3,1,1,52,Withdrawn
+11314,Female,36,Australia, ,PartTime, PartTime, , ,  ,Yes,Yes,58,25,Normal Self-Esteem,54,14,7,6,5,5,8,45,51,10,11,8,3,5,2,59,Withdrawn
+6781,Female,48,Australia, ,PartTime, PartTime, ,OnCampus, OnCampus,Yes,Yes,33,27,Normal Self-Esteem,54,13,14,6,8,6,6,53,56,9,9,14,3,4,4,51,Withdrawn
+16159,Female,24,Australia, ,PartTime, PartTime, , ,  ,Yes,Yes,76,25,Normal Self-Esteem,61,5,9,8,6,7,11,46,67,8,15,15,3,5,4,66,Enrolled
+12001,Female,23,Australia, ,PartTime, PartTime, , ,  ,Yes,Yes,68,24,Normal Self-Esteem,57,17,13,2,8,9,10,59,68,10,13,6,3,5,1,76,Enrolled
+11341,Female,25,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,44,21,Normal Self-Esteem,55,6,7,2,5,5,7,32,32,8,2,11,3,1,3,65,Enrolled
+12040,Female,22,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,67,27,Normal Self-Esteem,59,13,9,7,8,9,6,52,36,7,7,4,3,3,1,58,Enrolled
+17806,Female,46,Australia,FullTime, ,FullTime , , ,  ,No,Yes,89,25,Normal Self-Esteem,59,6,12,5,3,3,5,34,44,9,10,7,3,5,1,62,Enrolled
+11365,Female,26,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,48,26,Normal Self-Esteem,53,15,13,7,5,7,5,52,47,9,5,9,3,2,2,53,Withdrawn
+10489,Female,27,Australia,FullTime, ,FullTime , , ,  ,No,Yes,58,30,Normal Self-Esteem,48,15,6,6,7,8,10,52,47,8,12,7,3,5,1,60,Withdrawn
+11398,Female,22,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,32,28,Normal Self-Esteem,41,20,4,6,10,10,8,58,53,8,1,6,3,1,1,82,Enrolled
+17383,Female,28,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,44,23,Normal Self-Esteem,44,12,8,6,6,6,6,44,57,8,8,10,3,4,3,60,Enrolled
+12178,Female,23,Australia,FullTime, ,FullTime , , ,  ,Yes,No,85,24,Normal Self-Esteem,58,14,7,10,9,6,10,56,57,8,5,7,3,2,1,61,Withdrawn
+16372,Female,34,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,58,28,Normal Self-Esteem,62,15,11,9,6,9,8,58,58,9,8,11,3,4,3,93,Enrolled
+12535,Female,28,Australia,FullTime, ,FullTime , , ,  ,No,No,54,23,Normal Self-Esteem,62,9,11,9,11,10,11,61,60,8,9,12,3,4,3,63,Withdrawn
+13681,Female,22,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,No,Yes,69,26,Normal Self-Esteem,69,11,7,8,6,5,4,41,61,8,12,14,3,5,4,61,Enrolled
+17251,Female,25,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,65,32,Normal Self-Esteem,68,6,10,7,10,6,9,48,61,7,10,10,3,5,3,58,Enrolled
+11404,Female,32,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,64,23,Normal Self-Esteem,58,12,13,3,5,7,7,47,63,7,5,8,3,2,2,72,Withdrawn
+17230,Female,28,Australia,FullTime, ,FullTime , , ,  ,No,No,36,23,Normal Self-Esteem,48,9,4,3,10,8,10,44,64,8,6,8,3,3,2,74,Enrolled
+11692,Female,24,Australia,FullTime, ,FullTime , , ,  ,No,No,60,25,Normal Self-Esteem,60,10,8,4,5,9,10,46,64,7,6,7,3,3,1,67,Enrolled
+12742,Female,42,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,52,26,Normal Self-Esteem,73,11,7,1,7,7,5,38,64,10,11,11,3,5,3,38,#N/A
+4930,Female,24,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,75,23,Normal Self-Esteem,63,13,5,10,8,8,7,51,67,7,8,10,3,4,3,61,Enrolled
+17299,Female,44,Australia,FullTime, ,FullTime , , ,  ,No,Yes,25,25,Normal Self-Esteem,45,5,10,10,9,11,7,52,67,8,3,1,3,1,1,53,Enrolled
+10396,Female,20,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,47,27,Normal Self-Esteem,54,5,7,5,7,4,1,29,67,8,12,16,3,5,4,72,Withdrawn
+13741,Female,27,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,53,23,Normal Self-Esteem,63,5,9,1,3,6,2,26,68,8,9,12,3,4,3,73,Enrolled
+13843,Female,45,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,37,27,Normal Self-Esteem,67,3,14,12,6,2,9,46,70,7,9,10,3,4,3,67,Withdrawn
+13333,Female,28,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,70,24,Normal Self-Esteem,68,10,11,5,3,11,7,47,71,8,18,17,3,5,5,89,Enrolled
+17188,Female,24,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,41,37,Normal Self-Esteem,69,8,8,6,7,6,10,45,73,9,9,14,3,4,4,92,Enrolled
+12907,Female,27,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,74,25,Normal Self-Esteem,68,0,8,1,2,6,5,22,74,7,8,12,3,4,3,68,Withdrawn
+11530,Female,24,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,99,30,Normal Self-Esteem,41,7,6,7,9,7,9,45,76,7,10,10,3,5,3,48,Withdrawn
+9355,Female,22,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,52,16,Normal Self-Esteem,75,7,7,6,10,4,7,41,77,9,2,9,3,1,2,59,Withdrawn
+6082,Female,27,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,27,22,Normal Self-Esteem,59,10,7,9,6,6,5,43,36,9,3,7,3,1,1,62,Withdrawn
+13297,Female,23,Australia, , ,  ,Online, ,Online ,Yes,Yes,32,32,Normal Self-Esteem,66,10,7,9,7,6,7,46,40,8,12,15,3,5,4,73,Withdrawn
+10660,Female,24,Australia, , ,  ,Online, ,Online ,Yes,Yes,54,27,Normal Self-Esteem,66,8,8,5,5,6,8,40,50,9,9,14,3,4,4,57,Enrolled
+10492,Female,30,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,41,22,Normal Self-Esteem,47,12,5,5,4,7,10,43,52,10,3,5,3,1,1,83,Withdrawn
+13867,Female,48,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,66,20,Normal Self-Esteem,55,9,6,4,3,4,8,34,54,8,7,7,3,3,1,72,Enrolled
+9940,Female,19,Australia, , ,  ,Online, ,Online ,No,No,93,25,Normal Self-Esteem,69,12,7,4,5,7,4,39,54,10,9,10,3,4,3,57,Enrolled
+9862,Female,37,Australia, ,PartTime, PartTime,Online, ,Online ,No,No,91,31,Normal Self-Esteem,56,11,10,10,7,7,12,57,54,8,8,13,3,4,4,59,Enrolled
+13729,Female,25,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,48,24,Normal Self-Esteem,63,8,9,5,9,3,10,44,57,9,8,14,3,4,4,68,Enrolled
+5683,Female,27,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,49,26,Normal Self-Esteem,48,5,10,11,10,10,10,56,57,7,1,10,3,1,3,80,Enrolled
+11854,Female,26,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,75,25,Normal Self-Esteem,53,7,7,4,7,5,10,40,59,9,2,8,3,1,2,90,Withdrawn
+10702,Female,32,Australia, , ,  ,Online, ,Online ,Yes,Yes,69,21,Normal Self-Esteem,48,9,5,4,4,8,9,39,60,7,5,11,3,2,3,66,Withdrawn
+6172,Female,34,Australia, , ,  ,Online, ,Online ,Yes,Yes,67,21,Normal Self-Esteem,46,7,7,9,6,4,9,42,60,7,10,11,3,5,3,62,Enrolled
+9907,Female,37,Australia, ,PartTime, PartTime,Online, ,Online ,No,Yes,51,24,Normal Self-Esteem,54,15,12,6,11,4,6,54,60,9,0,12,3,1,3,48,Withdrawn
+10531,Female,31,Australia, , ,  ,Online, ,Online ,No,Yes,70,28,Normal Self-Esteem,53,8,9,4,8,7,10,46,61,9,7,14,3,3,4,69,Withdrawn
+17557,Female,24,Australia, , ,  ,Online, ,Online ,Yes,Yes,75,21,Normal Self-Esteem,64,9,9,1,7,10,9,45,63,8,13,12,3,5,3,57,Enrolled
+9382,Female,24,Australia, , ,  ,Online, ,Online ,Yes,Yes,41,32,Normal Self-Esteem,54,10,15,10,7,9,11,62,64,7,4,10,3,2,3,69,Enrolled
+13516,Female,32,Australia, , ,  ,Online, ,Online ,Yes,Yes,52,32,Normal Self-Esteem,49,9,11,1,6,7,12,46,64,7,14,13,3,5,4,85,Enrolled
+11506,Female,29,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,24,35,Normal Self-Esteem,44,10,5,6,4,8,9,42,65,8,4,14,3,2,4,59,Withdrawn
+17599,Female,33,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,32,19,Normal Self-Esteem,56,6,4,0,10,7,9,36,67,10,10,14,3,5,4,81,Enrolled
+12526,Female,30,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,64,22,Normal Self-Esteem,66,9,13,5,7,12,11,57,67,7,8,14,3,4,4,63,Withdrawn
+9994,Female,20,Australia, , ,  ,Online, ,Online ,No,Yes,56,27,Normal Self-Esteem,67,4,10,3,3,2,9,31,69,7,10,14,3,5,4,66,Enrolled
+12910,Female,42,Australia, ,PartTime, PartTime,Online, ,Online ,No,No,34,27,Normal Self-Esteem,45,15,11,7,10,11,10,64,69,7,0,5,3,1,1,57,Enrolled
+10672,Female,28,Australia, , ,  ,Online, ,Online ,No,Yes,72,19,Normal Self-Esteem,63,9,6,4,9,7,6,41,74,7,12,15,3,5,4,74,Withdrawn
+11674,Female,32,Australia, ,PartTime, PartTime,Online,OnCampus,OnlineOnCampus,Yes,No,53,22,Normal Self-Esteem,66,5,9,9,8,8,8,47,75,7,3,7,3,1,1,78,Withdrawn
+10624,Female,17,Australia,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,Yes,No,13,32,Normal Self-Esteem,54,14,9,9,7,10,8,57,42,9,3,1,3,1,1,77,Withdrawn
+12709,Female,25,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,42,25,Normal Self-Esteem,41,17,8,6,8,8,10,57,44,7,3,7,3,1,1,72,Enrolled
+12091,Female,27,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,22,25,Normal Self-Esteem,50,14,10,8,8,8,7,55,46,7,7,7,3,3,1,63,Withdrawn
+6346,Female,27,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,32,22,Normal Self-Esteem,40,15,6,9,8,8,10,56,51,9,1,10,3,1,3,52,Withdrawn
+17038,Female,23,Australia,FullTime, ,FullTime ,Online, ,Online ,No,No,41,26,Normal Self-Esteem,55,13,8,6,8,7,4,46,52,9,9,9,3,4,2,60,Enrolled
+12064,Female,20,Australia,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,No,Yes,79,33,Normal Self-Esteem,56,9,4,8,4,8,7,40,52,7,9,11,3,4,3,50,Withdrawn
+15319,Female,19,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,49,32,Normal Self-Esteem,40,13,7,9,7,9,4,49,53,9,8,8,3,4,2,59,Enrolled
+10708,Female,18,Australia,FullTime, ,FullTime ,Online, ,Online ,No,No,50,24,Normal Self-Esteem,54,11,7,4,4,5,7,38,56,10,9,10,3,4,3,65,Withdrawn
+11491,Female,35,Australia,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,Yes,Yes,63,24,Normal Self-Esteem,58,8,9,4,8,6,8,43,57,7,8,12,3,4,3,61,Enrolled
+12772,Female,17,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,46,28,Normal Self-Esteem,44,9,4,3,8,11,9,44,59,10,4,19,3,2,5,56,Enrolled
+17614,Female,40,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,48,16,Normal Self-Esteem,55,9,14,5,6,7,9,50,63,10,3,9,3,1,2,81,Enrolled
+11299,Female,37,Australia,FullTime, ,FullTime ,Online, ,Online ,No,No,66,19,Normal Self-Esteem,53,7,11,7,6,9,11,51,64,9,11,15,3,5,4,59,Enrolled
+16681,Female,24,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,42,24,Normal Self-Esteem,61,12,8,4,6,8,10,48,64,8,3,10,3,1,3,71,Enrolled
+12160,Female,25,Australia,FullTime, ,FullTime ,Online, ,Online ,No,Yes,41,25,Normal Self-Esteem,48,12,8,7,8,9,7,51,66,7,4,5,3,2,1,60,Enrolled
+10453,Female,20,Australia,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,Yes,Yes,70,28,Normal Self-Esteem,55,11,8,5,9,10,5,48,69,8,6,12,3,3,3,59,Enrolled
+11677,Female,28,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,76,20,Normal Self-Esteem,60,5,6,3,5,7,12,38,71,8,13,14,3,5,4,71,Enrolled
+10717,Female,32,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,89,13,Low Self-Esteem,82,3,14,7,7,6,7,44,74,10,9,14,3,4,4,72,Withdrawn
+10342,Female,37,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,92,25,Normal Self-Esteem,53,3,13,11,8,7,11,53,74,9,7,14,3,3,4,69,Enrolled
+11422,Female,32,Canada,FullTime, ,FullTime ,Online, ,Online ,No,No,40,21,Normal Self-Esteem,44,17,9,2,7,9,12,56,44,9,0,4,3,1,1,65,Enrolled
+15223,Female,19,India,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,No,27,25,Normal Self-Esteem,44,17,4,7,9,9,7,53,41,7,7,7,3,3,1,60,Enrolled
+9979,Female,26,Philippines,FullTime, ,FullTime , , ,  ,No,Yes,90,24,Normal Self-Esteem,76,5,10,6,2,4,8,35,75,9,10,12,3,5,3,70,Enrolled
+17401,Female,31,United Arab Emirates,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,No,Yes,78,27,Normal Self-Esteem,58,10,3,3,4,9,7,36,71,10,12,16,3,5,4,67,Enrolled
+9109,Male,23, , ,PartTime, PartTime, , ,  ,Yes,No,79,37,Normal Self-Esteem,32,20,15,9,8,12,5,69,22,13,1,4,4,1,1,50,Enrolled
+8032,Male,34, ,FullTime, ,FullTime , , ,  ,Yes,Yes,76,23,Normal Self-Esteem,60,9,6,5,8,4,2,34,56,13,4,13,4,2,4,60,Enrolled
+8263,Male,52, , , ,  ,Online, ,Online ,No,Yes,55,24,Normal Self-Esteem,41,15,8,5,7,6,3,44,56,11,7,9,4,3,2,67,Withdrawn
+9100,Female,25, , ,PartTime, PartTime, ,OnCampus, OnCampus,Yes,Yes,32,21,Normal Self-Esteem,50,5,10,5,9,6,8,43,61,11,1,12,4,1,3,59,Withdrawn
+7366,Female,25, ,FullTime, ,FullTime , , ,  ,No,No,56,22,Normal Self-Esteem,52,12,8,7,6,5,6,44,50,12,10,13,4,5,4,61,Withdrawn
+8617,Female,20, ,FullTime, ,FullTime , , ,  ,No,Yes,40,21,Normal Self-Esteem,56,8,8,5,5,7,5,38,60,13,8,12,4,4,3,69,Enrolled
+8356,Female,21, ,FullTime, ,FullTime , , ,  ,Yes,Yes,65,21,Normal Self-Esteem,61,6,6,6,6,8,4,36,65,13,13,14,4,5,4,57,Withdrawn
+7873,Female,25, , ,PartTime, PartTime,Online, ,Online ,Yes,Yes,91,23,Normal Self-Esteem,70,8,10,2,6,8,8,42,67,12,11,13,4,5,4,58,Enrolled
+9175,Female,24, ,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,30,29,Normal Self-Esteem,47,12,11,5,8,9,10,55,48,13,14,14,4,5,4,60,Withdrawn
+8329,Female,27, ,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,79,15,Normal Self-Esteem,76,18,9,5,9,10,5,56,62,12,7,14,4,3,4,65,Withdrawn
+8413,Female,30, ,FullTime, ,FullTime ,Online, ,Online ,No,No,93,16,Normal Self-Esteem,82,4,9,0,1,6,9,29,80,12,17,17,4,5,5,53,Withdrawn
+15148,Female,19,Algeria,FullTime, ,FullTime , , ,  ,Yes,Yes,69,23,Normal Self-Esteem,59,6,7,6,7,7,7,40,69,12,9,12,4,4,3,69,Enrolled
+11350,Male,19,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,51,21,Normal Self-Esteem,57,9,13,5,4,7,7,45,53,12,11,5,4,5,1,63,Enrolled
+12769,Male,25,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,No,No,52,29,Normal Self-Esteem,51,13,9,10,11,9,9,61,54,12,3,7,4,1,1,79,Enrolled
+17608,Male,22,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,49,24,Normal Self-Esteem,54,7,12,6,5,4,6,40,61,12,4,17,4,2,5,73,Enrolled
+12220,Male,26,Australia,FullTime, ,FullTime , , ,  ,Yes,No,73,14,Low Self-Esteem,55,7,5,6,6,10,7,41,71,12,4,13,4,2,4,67,Enrolled
+12415,Male,33,Australia, ,PartTime, PartTime,Online, ,Online ,No,No,23,29,Normal Self-Esteem,32,15,7,6,9,8,8,53,39,12,8,8,4,4,2,57,Enrolled
+12250,Male,27,Australia, ,PartTime, PartTime,Online,OnCampus,OnlineOnCampus,Yes,No,69,26,Normal Self-Esteem,64,6,9,5,10,8,10,48,54,13,9,10,4,4,3,61,Enrolled
+11377,Male,32,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,No,61,20,Normal Self-Esteem,51,11,13,7,5,11,5,52,24,11,5,11,4,2,3,79,Withdrawn
+16360,Male,36,Australia,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,No,No,18,35,Normal Self-Esteem,39,18,12,11,10,12,12,75,38,11,2,13,4,1,4,57,Enrolled
+12736,Male,23,Australia,FullTime, ,FullTime ,Online, ,Online ,No,Yes,51,25,Normal Self-Esteem,62,7,11,5,3,8,8,42,62,11,12,13,4,5,4,43,Enrolled
+15277,Male,22,Australia,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,Yes,Yes,55,14,Low Self-Esteem,57,2,6,0,10,5,4,27,76,11,9,16,4,4,4,74,Enrolled
+5380,Female,27,Australia, ,PartTime, PartTime, , ,  ,Yes,Yes,57,25,Normal Self-Esteem,53,12,8,6,6,6,6,44,48,12,10,11,4,5,3,61,Enrolled
+13726,Female,43,Australia, ,PartTime, PartTime, , ,  ,Yes,Yes,29,25,Normal Self-Esteem,56,7,9,9,9,9,5,48,52,13,3,8,4,1,2,85,Enrolled
+5710,Female,30,Australia, ,PartTime, PartTime, ,OnCampus, OnCampus,Yes,Yes,75,25,Normal Self-Esteem,41,3,7,10,7,5,9,41,62,12,7,16,4,3,4,59,Withdrawn
+12034,Female,22,Australia, ,PartTime, PartTime, , ,  ,No,No,61,28,Normal Self-Esteem,63,9,12,8,5,9,9,52,74,11,16,17,4,5,5,44,Enrolled
+17260,Female,29,Australia, ,PartTime, PartTime, ,OnCampus, OnCampus,Yes,Yes,77,18,Normal Self-Esteem,56,7,7,10,5,9,9,47,75,11,12,13,4,5,4,62,Enrolled
+12061,Female,22,Australia, ,PartTime, PartTime, ,OnCampus, OnCampus,No,Yes,47,25,Normal Self-Esteem,58,4,9,3,6,7,10,39,76,11,7,14,4,3,4,53,Enrolled
+12394,Female,28,Australia, ,PartTime, PartTime, ,OnCampus, OnCampus,Yes,Yes,89,26,Normal Self-Esteem,76,2,5,3,0,4,7,21,80,12,21,21,4,5,5,89,Withdrawn
+12859,Female,24,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,60,30,Normal Self-Esteem,81,11,7,12,4,11,5,50,21,12,15,18,4,5,5,45,Enrolled
+10726,Female,19,Australia,FullTime, ,FullTime , , ,  ,No,No,20,20,Normal Self-Esteem,51,19,6,4,6,6,5,46,51,12,7,7,4,3,1,57,Withdrawn
+17023,Female,23,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,37,24,Normal Self-Esteem,55,16,8,6,7,6,6,49,53,12,8,11,4,4,3,59,Enrolled
+7348,Female,30,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,83,23,Normal Self-Esteem,64,10,10,8,6,8,6,48,57,13,0,8,4,1,2,71,Enrolled
+17374,Female,22,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,46,20,Normal Self-Esteem,74,12,9,6,8,8,6,49,60,12,6,11,4,3,3,70,Enrolled
+10615,Female,32,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,82,19,Normal Self-Esteem,66,8,6,8,6,11,6,45,62,12,7,10,4,3,3,62,Withdrawn
+11356,Female,42,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,60,29,Normal Self-Esteem,49,12,12,10,11,10,8,63,66,11,8,10,4,4,3,73,Withdrawn
+13345,Female,23,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,51,27,Normal Self-Esteem,73,13,15,9,11,12,11,71,68,12,14,15,4,5,4,69,Enrolled
+10000,Female,23,Australia,FullTime, ,FullTime , , ,  ,No,No,44,20,Normal Self-Esteem,61,10,9,4,8,8,9,48,71,12,12,18,4,5,5,59,Enrolled
+12847,Female,57,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,70,25,Normal Self-Esteem,53,6,9,8,8,7,8,46,76,11,13,14,4,5,4,63,Withdrawn
+14464,Female,25,Australia, ,PartTime, PartTime,Online,OnCampus,OnlineOnCampus,Yes,Yes,64,28,Normal Self-Esteem,57,13,8,5,5,5,5,41,50,11,12,12,4,5,3,63,Enrolled
+16315,Female,32,Australia, ,PartTime, PartTime,Online,OnCampus,OnlineOnCampus,Yes,Yes,41,23,Normal Self-Esteem,50,14,12,6,9,6,11,58,57,11,4,6,4,2,1,72,Enrolled
+9736,Female,29,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,79,23,Normal Self-Esteem,67,7,9,4,6,7,10,43,63,13,10,14,4,5,4,65,Withdrawn
+11998,Female,32,Australia, , ,  ,Online, ,Online ,Yes,Yes,52,29,Normal Self-Esteem,45,7,4,2,10,7,10,40,71,12,17,14,4,5,4,58,Enrolled
+8647,Female,24,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,83,21,Normal Self-Esteem,63,7,13,2,2,9,6,39,79,13,7,15,4,3,4,89,Withdrawn
+11338,Female,35,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,30,21,Normal Self-Esteem,46,4,2,7,5,4,6,28,79,13,9,16,4,4,4,64,Withdrawn
+17032,Female,20,Australia,FullTime, ,FullTime ,Online, ,Online ,No,No,80,18,Normal Self-Esteem,60,12,12,6,7,9,6,52,55,12,5,7,4,2,1,44,Enrolled
+12469,Female,45,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,30,35,Normal Self-Esteem,55,10,15,6,10,5,7,53,58,11,2,8,4,1,2,67,Withdrawn
+12574,Female,23,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,56,24,Normal Self-Esteem,55,9,11,5,5,6,5,41,61,13,7,9,4,3,2,81,Enrolled
+11560,Female,24,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,75,25,Normal Self-Esteem,50,11,8,7,7,8,11,52,66,12,12,13,4,5,4,61,Withdrawn
+13498,Female,25,Australia,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,Yes,Yes,68,17,Normal Self-Esteem,65,11,12,6,5,7,10,51,67,11,10,13,4,5,4,83,Withdrawn
+12151,Female,45,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,50,32,Normal Self-Esteem,61,2,10,6,7,8,10,43,69,13,10,15,4,5,4,53,Withdrawn
+10411,Female,20,Australia,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,Yes,Yes,76,17,Normal Self-Esteem,62,0,8,4,6,4,7,29,75,11,15,16,4,5,4,57,Enrolled
+12874,Female,34,Austria,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,48,25,Normal Self-Esteem,84,11,9,5,8,9,9,51,66,13,5,13,4,2,4,66,Withdrawn
+9430,Male,18, ,FullTime, ,FullTime , ,OnCampus, OnCampus,No,No,12,28,Normal Self-Esteem,39,7,10,2,5,8,4,36,64,15,5,12,5,2,3,66,Enrolled
+9136,Male,22, ,FullTime, ,FullTime , , ,  ,No,No,52,15,Normal Self-Esteem,76,0,7,1,1,9,6,24,80,19,21,17,5,5,5,79,Enrolled
+8668,Male,23, , , ,  ,Online, ,Online ,Yes,Yes,58,32,Normal Self-Esteem,55,19,9,7,11,10,2,58,46,18,8,11,5,4,3,62,Withdrawn
+8506,Male,31, , , ,  ,Online, ,Online ,No,No,72,23,Normal Self-Esteem,80,1,10,3,3,4,12,33,70,18,16,20,5,5,5,86,Withdrawn
+8398,Male,34, ,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,38,20,Normal Self-Esteem,54,16,7,8,5,10,10,56,51,18,5,11,5,2,3,46,Enrolled
+8554,Male,29, ,FullTime, ,FullTime ,Online, ,Online ,Yes,No,66,23,Normal Self-Esteem,64,6,11,5,11,8,5,46,69,14,6,18,5,3,5,61,Enrolled
+9076,Female,29, , ,PartTime, PartTime, , ,  ,Yes,Yes,53,19,Normal Self-Esteem,77,4,11,6,6,5,8,40,67,15,11,18,5,5,5,74,Withdrawn
+5599,Female,23, , ,PartTime, PartTime, ,OnCampus, OnCampus,Yes,Yes,73,21,Normal Self-Esteem,51,11,9,6,8,7,6,47,67,14,3,11,5,1,3,72,Enrolled
+8416,Female,19, , ,PartTime, PartTime, , ,  ,Yes,Yes,73,23,Normal Self-Esteem,56,15,4,7,6,12,10,54,72,14,4,10,5,2,3,70,Enrolled
+9166,Female,32, , ,PartTime, PartTime, , ,  ,Yes,Yes,82,19,Normal Self-Esteem,88,0,4,0,6,7,4,21,76,20,18,20,5,5,5,84,Withdrawn
+8641,Female,24, , ,PartTime, PartTime, ,OnCampus, OnCampus,Yes,Yes,82,24,Normal Self-Esteem,66,7,2,3,5,9,5,31,79,21,16,21,5,5,5,71,Withdrawn
+6343,Female,27, ,FullTime, ,FullTime , ,OnCampus, OnCampus,No,No,75,28,Normal Self-Esteem,54,13,8,7,7,4,5,44,54,16,12,13,5,5,4,60,Enrolled
+8593,Female,23, ,FullTime, ,FullTime , ,OnCampus, OnCampus,No,No,50,25,Normal Self-Esteem,58,14,7,3,7,6,6,43,64,15,12,13,5,5,4,48,Withdrawn
+8407,Female,18, ,FullTime, ,FullTime , , ,  ,Yes,Yes,92,15,Normal Self-Esteem,83,2,9,1,7,7,10,36,72,19,10,16,5,5,4,75,Withdrawn
+7945,Female,20, ,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,58,17,Normal Self-Esteem,67,2,11,3,6,6,10,38,76,16,16,17,5,5,5,61,Enrolled
+8392,Female,25, ,FullTime, ,FullTime , , ,  ,Yes,Yes,95,23,Normal Self-Esteem,83,1,6,1,0,5,9,22,80,19,19,18,5,5,5,66,Enrolled
+9817,Female,61, , ,PartTime, PartTime,Online, ,Online ,Yes,Yes,66,20,Normal Self-Esteem,77,5,10,7,5,5,10,42,74,21,11,19,5,5,5,62,#N/A
+8500,Female,19, , ,PartTime, PartTime,Online, ,Online ,Yes,Yes,83,17,Normal Self-Esteem,68,0,5,2,1,4,8,20,78,15,17,20,5,5,5,64,Withdrawn
+9316,Female,22, ,FullTime, ,FullTime ,Online, ,Online ,No,No,79,21,Normal Self-Esteem,56,10,14,6,5,8,10,53,27,17,13,16,5,5,4,77,Withdrawn
+8371,Female,24, ,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,64,24,Normal Self-Esteem,63,12,8,4,7,8,8,47,63,14,14,12,5,5,3,51,Enrolled
+10639,Male,18,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,75,25,Normal Self-Esteem,67,6,12,5,3,3,5,34,54,14,14,14,5,5,4,60,Withdrawn
+17077,Male,21,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,No,Yes,62,22,Normal Self-Esteem,83,7,9,5,6,6,11,44,68,20,17,19,5,5,5,62,Enrolled
+11410,Male,28,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,55,27,Normal Self-Esteem,81,1,12,5,4,6,6,34,70,15,8,15,5,4,4,63,Enrolled
+11179,Male,23,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,80,15,Normal Self-Esteem,85,3,10,3,6,7,7,36,74,21,17,18,5,5,5,88,Withdrawn
+17347,Male,37,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,77,15,Normal Self-Esteem,67,5,8,3,8,9,4,37,75,14,11,13,5,5,4,86,Enrolled
+13672,Male,21,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,59,22,Normal Self-Esteem,72,1,8,5,3,7,1,25,75,14,13,14,5,5,4,81,Enrolled
+16786,Male,43,Australia, , ,  ,Online, ,Online ,No,Yes,47,26,Normal Self-Esteem,75,10,10,3,3,9,3,38,56,15,3,11,5,1,3,58,Enrolled
+12886,Male,34,Australia,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,No,No,76,22,Normal Self-Esteem,71,9,11,4,6,9,3,42,34,14,1,12,5,1,3,75,Withdrawn
+12298,Male,27,Australia,FullTime, ,FullTime ,Online, ,Online ,No,Yes,72,26,Normal Self-Esteem,65,17,6,10,9,6,4,52,43,15,9,7,5,4,1,75,Enrolled
+9946,Male,20,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,89,20,Normal Self-Esteem,77,4,5,1,7,7,8,32,71,15,8,13,5,4,4,55,Withdrawn
+10480,Male,23,Australia,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,Yes,Yes,67,14,Low Self-Esteem,60,6,7,1,5,7,1,27,72,18,9,12,5,4,3,79,Withdrawn
+12280,Female,21,Australia, ,PartTime, PartTime, ,OnCampus, OnCampus,Yes,Yes,20,15,Normal Self-Esteem,67,10,7,3,6,8,4,38,48,18,6,15,5,3,4,66,Withdrawn
+12784,Female,23,Australia, ,PartTime, PartTime, , ,  ,Yes,Yes,89,25,Normal Self-Esteem,84,3,13,4,6,3,10,39,59,21,20,21,5,5,5,57,Withdrawn
+10474,Female,32,Australia, , ,  , ,OnCampus, OnCampus,Yes,Yes,26,22,Normal Self-Esteem,75,2,9,4,6,6,3,30,70,18,12,14,5,5,4,65,Withdrawn
+9520,Female,57,Australia, ,PartTime, PartTime, ,OnCampus, OnCampus,No,Yes,42,24,Normal Self-Esteem,70,11,7,4,9,8,6,45,70,15,7,12,5,3,3,74,Enrolled
+11383,Female,40,Australia, ,PartTime, PartTime, ,OnCampus, OnCampus,Yes,No,54,23,Normal Self-Esteem,62,10,7,9,10,9,8,53,71,14,8,13,5,4,4,75,Enrolled
+11437,Female,47,Australia, ,PartTime, PartTime, , ,  ,Yes,Yes,85,17,Normal Self-Esteem,74,2,4,1,2,8,10,27,73,14,20,19,5,5,5,55,Enrolled
+13321,Female,38,Australia, ,PartTime, PartTime, , ,  ,Yes,Yes,66,17,Normal Self-Esteem,71,5,4,4,3,9,8,33,76,17,14,17,5,5,5,56,Enrolled
+10348,Female,29,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,43,25,Normal Self-Esteem,66,13,7,7,7,6,10,50,52,15,16,17,5,5,5,61,Withdrawn
+16012,Female,33,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,73,25,Normal Self-Esteem,69,12,8,6,6,6,6,44,52,16,18,17,5,5,5,62,Enrolled
+17422,Female,30,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,50,21,Normal Self-Esteem,63,15,6,6,7,7,6,47,53,14,12,10,5,5,3,59,Withdrawn
+16354,Female,20,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,No,No,62,21,Normal Self-Esteem,66,7,7,4,5,5,3,31,58,14,12,12,5,5,3,64,Enrolled
+10420,Female,19,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,100,25,Normal Self-Esteem,88,3,8,2,8,9,7,37,64,21,21,21,5,5,5,53,Withdrawn
+10336,Female,23,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,72,18,Normal Self-Esteem,81,2,12,2,6,8,8,38,72,19,13,19,5,5,5,73,Enrolled
+17203,Female,21,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,67,25,Normal Self-Esteem,87,5,12,10,8,4,11,50,73,21,19,17,5,5,5,62,Enrolled
+10666,Female,20,Australia,FullTime, ,FullTime , , ,  ,Yes,No,71,13,Low Self-Esteem,63,2,7,3,5,6,4,27,75,15,10,15,5,5,4,61,Withdrawn
+10399,Female,20,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,No,78,13,Low Self-Esteem,75,7,4,4,7,9,9,40,75,21,3,8,5,1,2,88,Enrolled
+12307,Female,21,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,95,13,Low Self-Esteem,77,2,4,2,4,5,4,21,76,21,13,15,5,5,4,88,Withdrawn
+12514,Female,32,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,84,26,Normal Self-Esteem,72,0,14,6,10,4,8,42,77,17,17,19,5,5,5,63,Withdrawn
+16666,Female,23,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,100,14,Low Self-Esteem,88,3,12,0,8,10,10,43,78,21,15,19,5,5,5,69,Enrolled
+13471,Female,25,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,89,16,Normal Self-Esteem,71,4,6,4,4,9,4,31,78,18,13,16,5,5,4,75,Enrolled
+15964,Female,36,Australia, , ,  ,Online, ,Online ,Yes,Yes,72,18,Normal Self-Esteem,61,10,6,7,4,6,4,37,41,17,1,11,5,1,3,69,Enrolled
+16771,Female,25,Australia, ,PartTime, PartTime,Online,OnCampus,OnlineOnCampus,Yes,Yes,67,24,Normal Self-Esteem,59,9,5,10,4,8,11,47,47,19,15,10,5,5,3,92,Enrolled
+12322,Female,37,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,65,36,Normal Self-Esteem,74,7,10,6,5,5,6,39,49,17,18,17,5,5,5,59,Withdrawn
+13723,Female,19,Australia, , ,  ,Online, ,Online ,Yes,Yes,39,20,Normal Self-Esteem,81,2,12,1,3,6,3,27,58,16,15,18,5,5,5,77,Enrolled
+16297,Female,24,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,82,16,Normal Self-Esteem,50,11,10,11,8,8,9,57,63,16,0,13,5,1,4,51,Enrolled
+12097,Female,27,Australia, ,PartTime, PartTime,Online, ,Online ,No,No,85,22,Normal Self-Esteem,79,7,7,3,6,5,10,38,63,14,13,12,5,5,3,53,Withdrawn
+11869,Female,31,Australia, ,PartTime, PartTime,Online, ,Online ,No,No,83,25,Normal Self-Esteem,57,11,7,6,5,7,7,43,63,17,19,20,5,5,5,54,Enrolled
+17122,Female,22,Australia, ,PartTime, PartTime,Online, ,Online ,No,No,60,12,Low Self-Esteem,69,8,9,3,9,8,10,47,68,20,12,19,5,5,5,70,Withdrawn
+11368,Female,24,Australia, , ,  ,Online, ,Online ,No,No,57,13,Low Self-Esteem,76,0,9,1,2,2,4,18,68,16,19,20,5,5,5,80,Withdrawn
+10690,Female,51,Australia, , ,  ,Online, ,Online ,Yes,Yes,49,19,Normal Self-Esteem,67,8,10,4,9,9,4,44,69,16,13,15,5,5,4,80,Withdrawn
+10303,Female,27,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,40,25,Normal Self-Esteem,54,5,7,6,3,9,10,40,71,21,10,11,5,5,3,81,Withdrawn
+12523,Female,21,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,72,16,Normal Self-Esteem,65,2,7,1,3,4,6,23,74,14,11,20,5,5,5,59,Enrolled
+13534,Female,24,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,72,19,Normal Self-Esteem,67,2,5,2,1,1,9,20,76,15,11,15,5,5,4,77,Enrolled
+9982,Female,25,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,82,13,Low Self-Esteem,85,0,15,8,8,8,7,46,79,21,10,21,5,5,5,90,Enrolled
+13453,Female,23,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,90,10,Low Self-Esteem,86,4,7,1,1,10,7,30,80,19,18,20,5,5,5,91,Withdrawn
+10393,Female,19,Australia,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,Yes,No,59,23,Normal Self-Esteem,41,12,9,5,3,7,9,45,53,17,8,11,5,4,3,41,Enrolled
+17164,Female,21,Australia,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,Yes,Yes,12,30,Normal Self-Esteem,67,8,7,3,7,9,7,41,60,15,4,17,5,2,5,72,Enrolled
+12802,Female,23,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,57,18,Normal Self-Esteem,68,2,5,0,0,8,7,22,61,17,10,13,5,5,4,71,Withdrawn
+12331,Female,21,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,74,24,Normal Self-Esteem,64,6,7,5,3,5,4,30,63,14,16,16,5,5,4,80,Enrolled
+16411,Female,26,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,94,17,Normal Self-Esteem,67,8,10,1,7,7,9,42,64,19,19,18,5,5,5,66,Enrolled
+12700,Female,26,Australia,FullTime, ,FullTime ,Online, ,Online ,No,Yes,70,21,Normal Self-Esteem,73,6,9,0,4,8,6,33,65,17,6,16,5,3,4,56,Withdrawn
+13324,Female,20,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,81,19,Normal Self-Esteem,72,2,13,2,6,4,8,35,73,18,17,17,5,5,5,59,Enrolled
+12226,Female,24,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,85,15,Normal Self-Esteem,84,3,3,0,3,4,6,19,75,21,20,18,5,5,5,65,Withdrawn
+10069,Female,21,Australia,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,No,Yes,98,18,Normal Self-Esteem,85,0,9,4,0,7,1,21,79,21,20,21,5,5,5,73,Withdrawn
+17179,Female,25,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,91,19,Normal Self-Esteem,79,4,10,2,3,8,7,34,79,15,8,17,5,4,5,59,Enrolled
+17242,Female,26,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,69,24,Normal Self-Esteem,70,3,12,2,4,9,5,35,80,14,9,17,5,4,5,72,Enrolled
+12133,Female,22,New Zealand,FullTime, ,FullTime , , ,  ,Yes,Yes,100,20,Normal Self-Esteem,86,0,16,0,4,0,4,24,80,21,12,17,5,5,5,73,Withdrawn
+10006,Female,22,Somalia, , ,  ,Online, ,Online ,Yes,Yes,50,26,Normal Self-Esteem,54,10,9,6,7,7,7,46,48,17,15,13,5,5,4,55,Withdrawn
+15130,Female,42,Armenia, ,PartTime, PartTime,Online, ,Online ,Yes,No,74,29,Normal Self-Esteem,30,23,9,11,12,11,11,77,41,1,0,1,1,1,1,49,Enrolled
+18007,Male,57,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,39,33,Normal Self-Esteem,34,21,12,7,6,9,11,66,44,3,4,3,1,2,1,70,Enrolled
+17740,Male,22,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,60,25,Normal Self-Esteem,35,15,5,5,7,6,7,45,47,2,1,6,1,1,1,68,Enrolled
+18223,Male,31,Australia,FullTime, ,FullTime ,Online, ,Online ,No,No,26,32,Normal Self-Esteem,28,16,14,7,12,7,10,66,23,1,12,5,1,5,1,42,Enrolled
+18145,Male,22,Australia,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,Yes,Yes,34,28,Normal Self-Esteem,43,12,8,9,10,8,6,53,65,1,8,8,1,4,2,44,Enrolled
+18622,Female,36,Australia, ,PartTime, PartTime, , ,  ,No,No,28,36,Normal Self-Esteem,25,22,8,12,12,12,11,77,22,0,0,0,1,1,1,41,Enrolled
+13315,Female,54,Australia, ,PartTime, PartTime, , ,  ,Yes,Yes,3,30,Normal Self-Esteem,52,19,9,9,10,11,11,69,36,1,0,2,1,1,1,56,Enrolled
+16729,Female,51,Australia, ,PartTime, PartTime, ,OnCampus, OnCampus,No,No,10,27,Normal Self-Esteem,26,20,11,8,10,10,9,68,40,1,1,5,1,1,1,55,Enrolled
+18805,Female,39,Australia, ,PartTime, PartTime, ,OnCampus, OnCampus,Yes,Yes,29,35,Normal Self-Esteem,32,19,11,11,8,7,11,67,42,1,3,4,1,1,1,71,Enrolled
+18592,Female,46,Australia, ,PartTime, PartTime, ,OnCampus, OnCampus,No,No,8,31,Normal Self-Esteem,31,17,7,7,10,10,12,63,49,1,0,2,1,1,1,44,Enrolled
+18649,Female,46,Australia, ,PartTime, PartTime, , ,  ,Yes,Yes,7,32,Normal Self-Esteem,39,16,7,11,10,10,10,64,54,1,0,2,1,1,1,55,Enrolled
+17320,Female,44,Australia, ,PartTime, PartTime, ,OnCampus, OnCampus,No,No,36,39,Normal Self-Esteem,32,16,11,12,11,9,11,70,58,0,0,1,1,1,1,67,Enrolled
+18841,Female,41,Australia,FullTime, ,FullTime , , ,  ,No,No,9,32,Normal Self-Esteem,30,20,9,9,9,12,8,67,30,0,2,3,1,1,1,58,Enrolled
+18109,Female,35,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,No,No,44,26,Normal Self-Esteem,48,22,12,9,5,10,11,69,33,2,1,9,1,1,2,47,Enrolled
+18616,Female,31,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,25,29,Normal Self-Esteem,33,21,16,11,12,12,8,80,33,1,4,3,1,2,1,43,Enrolled
+18280,Female,51,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,5,37,Normal Self-Esteem,37,19,10,9,12,10,12,72,42,2,0,7,1,1,1,67,Enrolled
+18637,Female,27,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,39,29,Normal Self-Esteem,40,17,7,7,7,9,10,57,45,2,3,5,1,1,1,74,Enrolled
+17824,Female,42,Australia,FullTime, ,FullTime , , ,  ,No,Yes,46,34,Normal Self-Esteem,53,19,15,9,8,10,10,71,45,2,6,12,1,3,3,33,Enrolled
+17593,Female,31,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,No,No,11,31,Normal Self-Esteem,39,19,6,9,7,9,11,61,48,1,2,5,1,1,1,68,Enrolled
+18073,Female,24,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,No,No,69,26,Normal Self-Esteem,69,10,14,4,6,9,9,52,50,2,8,1,1,4,1,43,Enrolled
+18067,Female,39,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,20,29,Normal Self-Esteem,43,13,8,7,6,5,9,48,51,1,3,6,1,1,1,65,Enrolled
+18202,Female,30,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,47,33,Normal Self-Esteem,34,17,13,10,9,10,10,69,53,0,2,7,1,1,1,74,Enrolled
+18277,Female,18,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,No,No,34,20,Normal Self-Esteem,46,15,10,10,10,4,12,61,59,2,0,3,1,1,1,41,Enrolled
+18019,Female,41,Australia,FullTime, ,FullTime , , ,  ,No,Yes,45,24,Normal Self-Esteem,43,16,12,6,9,6,11,60,60,4,3,9,1,1,2,45,Enrolled
+18844,Female,42,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,62,23,Normal Self-Esteem,55,14,12,8,9,9,11,63,65,4,1,5,1,1,1,72,Enrolled
+18880,Female,24,Australia, ,PartTime, PartTime,Online, ,Online ,No,No,45,30,Normal Self-Esteem,48,21,12,11,8,9,7,68,33,0,0,0,1,1,1,66,Enrolled
+18265,Female,45,Australia, , ,  ,Online, ,Online ,Yes,Yes,25,37,Normal Self-Esteem,42,22,13,7,9,11,11,73,35,1,0,5,1,1,1,40,Enrolled
+18634,Female,34,Australia, , ,  ,Online, ,Online ,No,Yes,15,29,Normal Self-Esteem,28,21,14,9,11,11,10,76,41,0,2,2,1,1,1,47,Enrolled
+18589,Female,32,Australia, ,PartTime, PartTime,Online, ,Online ,No,No,27,36,Normal Self-Esteem,43,19,13,11,10,8,11,72,43,0,0,1,1,1,1,53,Enrolled
+18781,Female,41,Australia, , ,  ,Online, ,Online ,Yes,Yes,28,29,Normal Self-Esteem,51,17,10,7,11,11,9,65,47,1,0,7,1,1,1,51,Enrolled
+18874,Female,43,Australia, , ,  ,Online, ,Online ,Yes,Yes,25,29,Normal Self-Esteem,43,22,7,11,11,9,9,69,47,3,3,8,1,1,2,59,Enrolled
+18862,Female,25,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,57,36,Normal Self-Esteem,50,10,12,4,5,11,8,50,54,2,6,17,1,3,5,56,Enrolled
+18799,Female,44,Australia, ,PartTime, PartTime,Online, ,Online ,No,No,36,25,Normal Self-Esteem,40,12,9,2,10,8,11,52,56,0,0,4,1,1,1,49,Enrolled
+18835,Female,30,Australia, , ,  ,Online, ,Online ,No,No,69,23,Normal Self-Esteem,43,13,6,7,6,12,7,51,60,0,1,1,1,1,1,45,Enrolled
+18085,Female,33,Australia, , ,  ,Online, ,Online ,Yes,No,62,29,Normal Self-Esteem,54,14,7,9,7,8,11,56,60,0,4,10,1,2,3,56,Enrolled
+18184,Female,24,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,57,23,Normal Self-Esteem,58,16,13,8,9,9,12,67,62,4,1,6,1,1,1,43,Enrolled
+18787,Female,24,Australia, ,PartTime, PartTime,Online, ,Online ,No,Yes,20,37,Normal Self-Esteem,27,16,10,9,12,11,10,68,63,0,2,7,1,1,1,41,Enrolled
+17965,Female,40,Australia, , ,  ,Online, ,Online ,Yes,Yes,51,40,Normal Self-Esteem,53,23,15,11,11,9,11,80,65,0,1,3,1,1,1,87,Enrolled
+18628,Female,50,Australia,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,Yes,Yes,14,40,Normal Self-Esteem,27,23,12,12,11,12,12,82,27,0,0,0,1,1,1,29,Enrolled
+16828,Female,36,Australia,FullTime, ,FullTime ,Online, ,Online ,No,No,0,33,Normal Self-Esteem,33,23,6,11,10,10,10,70,30,0,0,1,1,1,1,52,Enrolled
+14296,Female,40,Australia,FullTime, ,FullTime ,Online, ,Online ,No,No,53,38,Normal Self-Esteem,30,23,9,8,5,9,12,66,34,1,0,14,1,1,4,50,Enrolled
+17263,Female,23,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,7,26,Normal Self-Esteem,47,18,6,6,7,8,12,57,37,2,0,2,1,1,1,73,Enrolled
+18124,Female,18,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,42,33,Normal Self-Esteem,55,15,11,9,10,11,11,67,67,0,1,5,1,1,1,36,Enrolled
+18010,Female,18,Australia,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,Yes,Yes,34,28,Normal Self-Esteem,40,13,8,3,10,7,8,49,70,1,10,7,1,5,1,67,Enrolled
+18232,Female,33,Australia,FullTime, ,FullTime ,Online, ,Online ,No,Yes,26,25,Normal Self-Esteem,61,8,7,3,7,5,10,40,74,3,7,9,1,3,2,61,Enrolled
+18136,Female,18,Australia, , ,  , ,OnCampus, OnCampus,Yes,Yes,43,25,Normal Self-Esteem,44,8,8,4,6,9,10,45,65,5,6,10,2,3,3,58,Enrolled
+18046,Female,31,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,27,31,Normal Self-Esteem,61,13,12,6,7,12,10,60,37,6,4,6,2,2,1,63,Enrolled
+18292,Female,46,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,49,23,Normal Self-Esteem,53,14,9,8,7,9,12,59,44,6,9,8,2,4,2,62,Enrolled
+18049,Female,27,Australia,FullTime, ,FullTime , , ,  ,No,Yes,54,27,Normal Self-Esteem,48,11,8,10,10,6,8,53,72,5,4,7,2,2,1,41,Enrolled
+18235,Female,29,Australia, , ,  ,Online, ,Online ,Yes,Yes,19,29,Normal Self-Esteem,43,15,7,10,6,9,8,55,55,5,2,13,2,1,4,79,Enrolled
+18871,Female,48,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,40,27,Normal Self-Esteem,48,9,12,4,7,7,6,45,63,6,8,11,2,4,3,71,Enrolled
+17104,Male,38,Australia,FullTime, ,FullTime ,Online, ,Online ,No,Yes,40,28,Normal Self-Esteem,53,13,11,4,11,6,10,55,54,7,0,5,3,1,1,38,Enrolled
+18640,Male,49,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,51,18,Normal Self-Esteem,72,5,9,1,5,8,4,32,77,7,21,19,3,5,5,63,Enrolled
+17632,Female,43,Australia, ,PartTime, PartTime, , ,  ,Yes,Yes,75,27,Normal Self-Esteem,41,22,7,7,8,9,8,61,48,8,0,10,3,1,3,56,Enrolled
+18220,Female,17,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,65,29,Normal Self-Esteem,68,8,11,4,6,7,5,41,53,7,10,16,3,5,4,53,Enrolled
+17896,Female,19,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,Yes,Yes,57,27,Normal Self-Esteem,60,7,10,7,7,4,9,44,58,7,7,10,3,3,3,59,Enrolled
+18712,Female,23,Australia,FullTime, ,FullTime , ,OnCampus, OnCampus,No,No,73,23,Normal Self-Esteem,57,11,4,7,8,7,9,46,66,7,4,19,3,2,5,62,Enrolled
+17953,Female,28,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,38,26,Normal Self-Esteem,58,8,7,3,7,4,10,39,64,7,0,8,3,1,2,77,Enrolled
+18706,Female,23,Australia, ,PartTime, PartTime,Online, ,Online ,Yes,Yes,73,19,Normal Self-Esteem,58,8,10,5,8,11,6,48,69,7,1,6,3,1,1,44,Enrolled
+17626,Female,21,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,50,22,Normal Self-Esteem,49,8,8,5,6,8,6,41,48,8,12,10,3,5,3,60,Enrolled
+16717,Female,25,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,49,26,Normal Self-Esteem,55,5,11,7,3,8,10,44,54,7,3,10,3,1,3,58,Enrolled
+16375,Male,41,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,41,29,Normal Self-Esteem,56,7,10,3,7,11,4,42,60,13,9,10,4,4,3,65,Enrolled
+18868,Male,25,Australia,FullTime, ,FullTime , , ,  ,Yes,Yes,34,17,Normal Self-Esteem,56,3,10,3,7,9,9,41,66,13,7,15,4,3,4,54,Enrolled
+18091,Female,18,Australia,FullTime, ,FullTime , , ,  ,No,No,64,25,Normal Self-Esteem,54,9,10,6,5,7,7,44,51,12,8,11,4,4,3,62,Enrolled
+17110,Female,49,Australia, , ,  ,Online, ,Online ,No,Yes,37,27,Normal Self-Esteem,38,17,7,9,9,10,8,60,45,11,6,13,4,3,4,45,Enrolled
+17635,Female,24,Australia, , ,  ,Online, ,Online ,Yes,Yes,62,18,Normal Self-Esteem,70,6,10,2,3,4,4,29,52,11,0,6,4,1,1,66,Enrolled
+18643,Female,27,Australia,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,No,Yes,77,20,Normal Self-Esteem,72,1,7,3,2,1,6,20,65,11,14,20,4,5,5,76,Enrolled
+8350,Male,25,Australia,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,Yes,Yes,5,18,Normal Self-Esteem,55,3,16,3,0,8,3,33,69,17,3,13,5,1,4,80,Enrolled
+17746,Female,46,Australia, ,PartTime, PartTime, ,OnCampus, OnCampus,Yes,No,77,18,Normal Self-Esteem,60,8,10,3,9,10,8,48,57,14,8,9,5,4,2,82,Enrolled
+18619,Female,31,Australia, ,PartTime, PartTime,Online, ,Online ,No,Yes,73,21,Normal Self-Esteem,65,9,9,8,9,6,5,46,66,14,4,15,5,2,4,81,Enrolled
+18700,Female,31,Australia, , ,  ,Online, ,Online ,No,Yes,91,14,Low Self-Esteem,59,2,1,7,5,4,6,25,80,18,4,16,5,2,4,69,Enrolled
+17983,Female,38,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,60,19,Normal Self-Esteem,64,8,8,2,8,6,6,38,69,17,5,18,5,2,5,74,Enrolled
+18013,Female,26,Australia,FullTime, ,FullTime ,Online,OnCampus,OnlineOnCampus,Yes,Yes,90,15,Normal Self-Esteem,83,4,9,5,8,4,1,31,73,14,5,19,5,2,5,69,Enrolled
+18829,Female,26,Australia,FullTime, ,FullTime ,Online, ,Online ,Yes,Yes,100,17,Normal Self-Esteem,88,0,12,4,0,0,4,20,80,15,16,14,5,5,4,70,Enrolled
+18289,Female,24,Sri Lanka, , ,  , ,OnCampus, OnCampus,Yes,No,71,21,Normal Self-Esteem,60,4,5,5,9,7,12,42,66,15,10,10,5,5,3,58,Enrolled
